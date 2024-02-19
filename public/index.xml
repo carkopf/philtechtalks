@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Phil.Tech.Talks</title>
+    <link>https://philtechtalks.netlify.app/</link>
+    <description>Recent content on Phil.Tech.Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 May 2024 00:00:10 +0000</lastBuildDate>
+    <atom:link href="https://philtechtalks.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>January 19: Vincent Müller</title>
+      <link>https://philtechtalks.netlify.app/past_talks/vincent/</link>
+      <pubDate>Fri, 17 May 2024 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/past_talks/vincent/</guid>
+      <description>Title: What should AI ethics try to achieve?</description>
+    </item>
+    <item>
+      <title>March 1: Sam Bennett</title>
+      <link>https://philtechtalks.netlify.app/upcoming/sam/</link>
+      <pubDate>Sat, 16 Mar 2024 10:51:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/sam/</guid>
+      <description>Human autonomy and recommender systems.</description>
+    </item>
+    <item>
+      <title>March 15: Julia Mönig</title>
+      <link>https://philtechtalks.netlify.app/upcoming/julia/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/julia/</guid>
+      <description>A talk on the legal regulation of artificial intelligence. Title forthcoming.</description>
+    </item>
+    <item>
+      <title>November 17: Tobias Schlicht</title>
+      <link>https://philtechtalks.netlify.app/past_talks/tobias/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/past_talks/tobias/</guid>
+      <description>Title: What is social interaction?</description>
+    </item>
+    <item>
+      <title>October 27: Sebastian Weydner-Volkman</title>
+      <link>https://philtechtalks.netlify.app/past_talks/sebastian/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/past_talks/sebastian/</guid>
+      <description>Bewertung von KI-Feedback Systeme in der Lehre</description>
+    </item>
+    <item>
+      <title>April 12: Eva Schmidt</title>
+      <link>https://philtechtalks.netlify.app/upcoming/eva/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/eva/</guid>
+      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
+    </item>
+    <item>
+      <title>April 19: Sven Nyholm</title>
+      <link>https://philtechtalks.netlify.app/upcoming/sven/</link>
+      <pubDate>Fri, 19 Apr 2024 10:51:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/sven/</guid>
+      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
+    </item>
+    <item>
+      <title>May 17: Emma Ruttkamp-Bloem</title>
+      <link>https://philtechtalks.netlify.app/upcoming/emma/</link>
+      <pubDate>Fri, 17 May 2024 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/emma/</guid>
+      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
+    </item>
+    <item>
+      <title>Join our virtual meetings</title>
+      <link>https://philtechtalks.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/contact/</guid>
+      <description>We meet on Fridays at 10:00 CET.
+If you would like to join the seminar, please write to Markus Rüther and ask to be added to the mailing list. You will then receive emails with the link to our Zoom invite each week.</description>
+    </item>
+  </channel>
+</rss>

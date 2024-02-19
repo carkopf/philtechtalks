@@ -1,0 +1,27 @@
+baseURL = 'https://philtechtalks.netlify.app'
+languageCode = 'en-us'
+title = 'Phil.Tech.Talks'
+theme = [ "PaperMod" ]
+pluralizeListTitles = false
+buildFuture = true
+
+[[menu.main]]
+identifier = "pasttalks"
+name = "Past talks"
+url = "/past_talks/"
+weight = 20
+
+[[menu.main]]
+identifier = "contact"
+name = "Join us"
+url = "/contact/"
+weight = 30
+
+[params.homeInfoParams]
+Title = "Welcome to the Jülich Speaker Series in the Philosophy of Technology"
+Content = "Our seminar series aims to facilitate research into ethical and philosophical questions associated with novel technologies, particularly in artificial intelligence, neuromedicine, and their instersection. The series is organized by the working group [Neuroethics and Ethics of AI](https://www.fz-juelich.de/de/inm/inm-7/forschung/neuroethics-and-ethics-in-ai) at the [Forschungszentrum Jülich](https://www.fz-juelich.de/en)."
+
+
+
+
+

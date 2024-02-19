@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Upcoming on Phil.Tech.Talks</title>
+    <link>https://philtechtalks.netlify.app/upcoming/</link>
+    <description>Recent content in Upcoming on Phil.Tech.Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 May 2024 00:00:10 +0000</lastBuildDate>
+    <atom:link href="https://philtechtalks.netlify.app/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March 1: Sam Bennett</title>
+      <link>https://philtechtalks.netlify.app/upcoming/sam/</link>
+      <pubDate>Sat, 16 Mar 2024 10:51:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/sam/</guid>
+      <description>Human autonomy and recommender systems.</description>
+    </item>
+    <item>
+      <title>March 15: Julia Mönig</title>
+      <link>https://philtechtalks.netlify.app/upcoming/julia/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/julia/</guid>
+      <description>A talk on the legal regulation of artificial intelligence. Title forthcoming.</description>
+    </item>
+    <item>
+      <title>April 12: Eva Schmidt</title>
+      <link>https://philtechtalks.netlify.app/upcoming/eva/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/eva/</guid>
+      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
+    </item>
+    <item>
+      <title>April 19: Sven Nyholm</title>
+      <link>https://philtechtalks.netlify.app/upcoming/sven/</link>
+      <pubDate>Fri, 19 Apr 2024 10:51:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/sven/</guid>
+      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
+    </item>
+    <item>
+      <title>May 17: Emma Ruttkamp-Bloem</title>
+      <link>https://philtechtalks.netlify.app/upcoming/emma/</link>
+      <pubDate>Fri, 17 May 2024 00:00:10 +0000</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/emma/</guid>
+      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
+    </item>
+  </channel>
+</rss>
