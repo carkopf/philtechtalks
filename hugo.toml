@@ -1,9 +1,13 @@
 baseURL = 'https://philtechtalks.netlify.app'
 languageCode = 'en-us'
 title = 'Phil.Tech.Talks'
-theme = [ "PaperMod" ]
+theme = "PaperMod"
 pluralizeListTitles = false
 buildFuture = true
+
+[params]
+  # Add the mainSections parameter to specify which section(s) to display on the homepage
+  mainSections = ["upcoming"]
 
 [[menu.main]]
 identifier = "pasttalks"
@@ -19,9 +23,4 @@ weight = 30
 
 [params.homeInfoParams]
 Title = "Welcome to the Jülich Speaker Series in the Philosophy of Technology"
-Content = "Our seminar series aims to facilitate research into ethical and philosophical questions associated with novel technologies, particularly in artificial intelligence, neuromedicine, and their instersection. The series is organized by the working group [Neuroethics and Ethics of AI](https://www.fz-juelich.de/de/inm/inm-7/forschung/neuroethics-and-ethics-in-ai) at the [Forschungszentrum Jülich](https://www.fz-juelich.de/en)."
-
-
-
-
-
+Content = "Our seminar series aims to facilitate research into ethical and philosophical questions associated with novel technologies, particularly in artificial intelligence, neuromedicine, and their intersection. The series is organized by the working group [Neuroethics and Ethics of AI](https://www.fz-juelich.de/de/inm/inm-7/forschung/neuroethics-and-ethics-in-ai) at the [Forschungszentrum Jülich](https://www.fz-juelich.de/en)."
