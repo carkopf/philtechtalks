@@ -3,7 +3,7 @@ title = 'May 26: Janina Loh'
 date = 2023-05-26T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 6
+weight = 7
 summary = "Digitale Transformation im Gesundheitswesen"
 +++
 
