@@ -3,7 +3,7 @@ title = 'October 20: Martin Hähnel'
 date = 2023-10-20T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 4
+weight = 5
 summary = "Dual-use and artificial intelligence"
 +++
 
