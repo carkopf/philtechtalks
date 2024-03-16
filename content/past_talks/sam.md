@@ -3,7 +3,7 @@ title = 'March 1: Sam Bennett'
 date = 2024-03-16T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 1
+weight = 2
 summary = "The morality of smartphone use."
 +++
 

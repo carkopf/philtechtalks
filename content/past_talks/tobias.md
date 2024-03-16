@@ -3,7 +3,7 @@ title = 'November 17: Tobias Schlicht'
 date = 2023-11-17T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 3
+weight = 4
 summary = "Title: What is social interaction?"
 +++
 

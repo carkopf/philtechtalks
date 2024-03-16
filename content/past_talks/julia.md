@@ -3,7 +3,7 @@ title = 'March 15: Julia Mönig'
 date = 2024-03-15T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 2
+weight = 1
 summary = "The human behind human-centered AI"
 +++
 
