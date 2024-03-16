@@ -19,13 +19,13 @@ weight = 20
 identifier = "contact"
 name = "Join us"
 url = "/contact/"
-weight = 30
+weight = 40
 
 [[menu.main]]
 identifier = "workshop"
 name = "Workshop"
 url = "/workshop/"
-weight = 40
+weight = 30
 
 [params.homeInfoParams]
 Title = "Welcome to the Jülich Speaker Series in the Philosophy of Technology"

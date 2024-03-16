@@ -6,6 +6,14 @@
     padding: var(--gap);
 }
 
+
+.pagination a:hover,
+a:hover {
+    color: #3498db; /* This will make links orange on hover */
+}
+
+
+
 .page-header h1 {
     font-size: 40px;
 }
@@ -64,3 +72,5 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+
