@@ -17,7 +17,7 @@ weight = 20
 
 [[menu.main]]
 identifier = "contact"
-name = "Join us"
+name = "Join in"
 url = "/contact/"
 weight = 40
 
