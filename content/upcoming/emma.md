@@ -3,7 +3,7 @@ title = 'May 17: Emma Ruttkamp-Bloem'
 date = 2024-05-17T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 6
+weight = 5
 summary = "A talk on the ethics of artificial intelligence. Title forthcoming."
 +++
 

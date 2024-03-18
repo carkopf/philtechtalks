@@ -3,7 +3,7 @@ title = 'April 19: Sven Nyholm'
 date = 2024-04-19T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 5
+weight = 2
 summary = "A talk on the ethics of artificial intelligence. Title forthcoming."
 +++
 
