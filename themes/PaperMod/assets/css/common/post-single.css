@@ -405,3 +405,9 @@ img.in-text {
     display: inline;
     margin: auto;
 }
+
+
+.post-entry .entry-header h2 a:hover {
+    color: #3498db !important; /* Light blue color for hover */
+}
+

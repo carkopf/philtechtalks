@@ -106,3 +106,17 @@
     color: var(--secondary);
     box-shadow: 0 1px 0 var(--primary);
 }
+
+.entry-header h2:hover {
+    color: #3498db; /* Light blue color for hover */
+}
+
+.entry-header h2 a:hover {
+    color: #3498db; /* Light blue color for hover */
+}
+
+.post-entry .entry-header h2 a:hover {
+    color: #3498db !important; /* Light blue color for hover */
+}
+
+
