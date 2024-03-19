@@ -73,4 +73,22 @@ pre:hover .copy-code {
     display: block;
 }
 
-
+/* Default styles for desktop */
+.entry-header h1 {
+    /* Your desktop styles here */
+  }
+  
+  /* Media query for mobile devices */
+  @media only screen and (max-width: 768px) {
+    .entry-header h1 {
+      /* Your mobile styles here */
+      /* For example, reduce font size or apply different styling */
+      font-size: 20px; /* Adjust as needed */
+      line-height: 24px; /* Adjust as needed */
+      /* You can also consider truncating the title if it's too long */
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+  
