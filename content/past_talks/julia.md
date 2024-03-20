@@ -1,5 +1,5 @@
 +++
-title = 'March 15: Julia Mönig'
+title = 'March 15: Dr. Julia Mönig (Bonn)'
 date = 2024-03-15T00:00:10+00:00
 draft = false
 hideMeta = true

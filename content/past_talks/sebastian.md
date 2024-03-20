@@ -1,5 +1,5 @@
 +++
-title = 'October 27: Sebastian Weydner-Volkman'
+title = 'October 27: Prof. Sebastian Weydner-Volkman (Bochum)'
 date = 2023-10-27T00:00:10+00:00
 draft = false
 hideMeta = true

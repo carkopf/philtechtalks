@@ -1,5 +1,5 @@
 +++
-title = 'November 17: Tobias Schlicht'
+title = 'November 17: Prof. Tobias Schlicht (Bochum)'
 date = 2023-11-17T00:00:10+00:00
 draft = false
 hideMeta = true

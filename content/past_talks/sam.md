@@ -1,5 +1,5 @@
 +++
-title = 'March 1: Sam Bennett'
+title = 'March 1: Dr. Sam Bennett (U. Georgia)'
 date = 2024-03-16T10:51:10+01:00
 draft = false
 hideMeta = true

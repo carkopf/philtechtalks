@@ -1,5 +1,5 @@
 +++
-title = 'April 26: Sarah Diner'
+title = 'April 26: Dr. Sarah Diner (Bonn)'
 date = 2024-04-26T00:00:10+00:00
 draft = false
 hideMeta = true

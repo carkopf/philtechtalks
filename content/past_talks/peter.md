@@ -1,5 +1,5 @@
 +++
-title = 'June 2: Peter Königs'
+title = 'June 2: Prof. Peter Königs (Dortmund)'
 date = 2023-06-02T00:00:10+00:00
 draft = false
 hideMeta = true

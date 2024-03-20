@@ -1,5 +1,5 @@
 +++
-title = 'May 17: Emma Ruttkamp-Bloem'
+title = 'May 17: Prof. Emma Ruttkamp-Bloem (Pretoria)'
 date = 2024-05-17T00:00:10+00:00
 draft = false
 hideMeta = true
