@@ -4,12 +4,12 @@ date = 2024-07-12T10:51:10+01:00
 draft = false
 hideMeta = true
 weight = 6
-summary = "TBA"
+summary = "AI, human-capacity habituation, and the deskilling problem"
 +++
  
 
 #### Title
-TBA
+AI, human-capacity habituation, and the deskilling problem
  
 #### Abstract
  
