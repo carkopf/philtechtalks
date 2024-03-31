@@ -17,4 +17,4 @@ TBA
  
 
 #### About [Avigail](https://www.avigailferdman.com/)
-Avigail Ferdman is a Research Fellow at the Department of Humanities and Arts, Technion - Israel Institute of Technology. At the Technion she also lead the Embedded Ethics program.
+Avigail Ferdman is a Research Fellow at the Department of Humanities and Arts, Technion - Israel Institute of Technology. At the Technion she also leads the Embedded Ethics program.
