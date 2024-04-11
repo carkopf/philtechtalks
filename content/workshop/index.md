@@ -28,4 +28,4 @@ The workshop invites proposals for talks to be given in-person on the FZ Jülich
 20 minute talks, plus 10 minutes Q&A, followed by a group discussion. 
 
 ### Submit an abstract
-Please send us a 500-word abstract by April 1st to c.rathkopf@fz-juelich.de.
+Please send us a 500-word abstract by May 1st to c.rathkopf@fz-juelich.de.
