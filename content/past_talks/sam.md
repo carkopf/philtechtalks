@@ -1,9 +1,8 @@
 +++
 title = 'March 1: Dr. Sam Bennett (U. Georgia)'
-date = 2024-03-16T10:51:10+01:00
+date = 2024-03-01T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 2
 summary = "The morality of smartphone use."
 +++
 

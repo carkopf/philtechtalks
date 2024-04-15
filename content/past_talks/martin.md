@@ -3,7 +3,6 @@ title = 'October 20: Dr. Martin Hähnel (Bremen)'
 date = 2023-10-20T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 6
 summary = "Dual-use and artificial intelligence"
 +++
 

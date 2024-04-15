@@ -3,7 +3,6 @@ title = 'April 12: Prof. Eva Schmidt (Dortmund)'
 date = 2024-04-12T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 1
 summary = "The Reasons of AI Systems"
 +++
 

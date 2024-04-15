@@ -3,7 +3,6 @@ title = 'May 26: Prof. Janina Loh (Bonn-Rhein-Sieg)'
 date = 2023-05-26T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 8
 summary = "Digitale Transformation im Gesundheitswesen"
 +++
 
