@@ -3,7 +3,6 @@ title = 'April 19: Prof. Sven Nyholm (LMU)'
 date = 2024-04-19T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 2
 summary = "Russell and Floridi on Artificial Intelligence and Agency"
 +++
 

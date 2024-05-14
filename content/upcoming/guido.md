@@ -1,0 +1,19 @@
++++
+title = 'November 1: Prof. Guido Löhr (Amsterdam)'
+date = 2024-11-01T10:51:10+01:00
+draft = false
+hideMeta = true
+weight = 9
+summary = "Conceptual Engineering"
++++
+ 
+
+#### Title
+Conceptual Engineering
+
+#### Abstract
+TBA
+ 
+
+#### About [Guido](https://sites.google.com/view/guidoloehr/home)
+Guido is Assistant Professor (TT) of Logic and AI at Vrije Universiteit Amsterdam. He received his (joint) PhD in philosophy (2020) from Ruhr University Bochum and École Normale Supérieure, Paris (Institut Jean Nicod). He works on the philosophy of language, the philosophy of psychology, and the philosophy of AI. 
