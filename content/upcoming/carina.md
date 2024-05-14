@@ -4,12 +4,12 @@ date = 2024-11-15T10:51:10+01:00
 draft = false
 hideMeta = true
 weight = 10
-summary = "Autonomie und KI"
+summary = "Autonomy und AI"
 +++
  
 
 #### Title
-Autonomie und KI
+Autonomy and AI 
  
 #### Abstract
  
