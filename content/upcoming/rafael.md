@@ -3,7 +3,7 @@ title = 'May 24: Prof. Raphaël Millière (Macquarie)'
 date = 2024-05-24T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 5
+weight = 2
 summary = "The Alignment Problem in Context"
 +++
  
