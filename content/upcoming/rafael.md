@@ -1,9 +1,9 @@
 +++
-title = 'May 24: Prof. Raphaël Millière (Macquarie)'
-date = 2024-05-24T10:51:10+01:00
+title = 'June 21: Prof. Raphaël Millière (Macquarie)'
+date = 2024-06-21T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 2
+weight = 3
 summary = "The Alignment Problem in Context"
 +++
  
