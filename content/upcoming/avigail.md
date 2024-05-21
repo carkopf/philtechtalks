@@ -3,7 +3,7 @@ title = 'July 12: Prof. Avigail Ferdman (Technion)'
 date = 2024-07-12T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 2
+weight = 3
 summary = "AI, human-capacity habituation, and the deskilling problem"
 +++
  
