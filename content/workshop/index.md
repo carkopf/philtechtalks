@@ -13,19 +13,25 @@ relative = false
 
 
 ### A Helmholtz AI Conference Prologue Workshop 
-This workshop is a satellite event of the larger [Helmholtz AI conference](https://www.helmholtz.ai/themenmenue/latest/events/helmholtz-ai-conference-2024/index.html) in Düsseldorf which begins the following day, on June 12. Transportation between Düsseldorf and Jülich will be provided.  
+This workshop is a satellite event of the larger [Helmholtz AI Conference](https://www.helmholtz.ai/themenmenue/latest/events/helmholtz-ai-conference-2024/index.html) in Düsseldorf which begins the following day, on June 12. Transportation between Düsseldorf and Jülich will be provided.  
 
-
-### Call for contributions
-The workshop invites proposals for talks to be given in-person on the FZ Jülich campus. Proposals should address any of the many ethical issues that arise from the use of artificial intelligence in a research setting. Topics may include (but are not limited to):
-
-1. Dual use potential
-2. AI in medical diagnostics
-3. Use of unethical / illegal training data
-4. Use of LLMs in scientific authorship
-
-### Structure 
-20 minute talks, plus 10 minutes Q&A, followed by a group discussion. 
-
-### Submit an abstract
-Please send us a 500-word abstract by May 1st to c.rathkopf@fz-juelich.de.
+## Schedule
+#### 13:00 - 13:15 
+Welcoming Remarks
+#### 13:15 - 14:00 
+"Brain age Prediction and the Challenge of Biological Concepts of Aging"\
+Hendrik Heinrichs, Forschungszentrum Jülich
+#### 14:00 - 14:45
+"Blackbox AI in Healthcare: How an Attitude of Pursuit can Mitigate Epistemic and Ethical Concerns"\
+Rooke Christy, Johns Hopkins University
+#### 14:45 - 15:30 
+"AI Ethics as a Form of Research Ethics"\
+Florian Richter, Technische Hochschule Ingolstadt
+#### 15:30 - 16:00
+Break
+#### 16:00 - 16:45
+"Suspended Responsibility. How Agential, Temporal, and Local Shifts Suspend Responsibility for Decisions Supported by Machine Learning"\
+Theresa Willem. Helmholtz Munich, TU Munich
+#### 16:45 - 17:30 
+"Foundation Models in Science: Some Risks and Opportunities"\
+Charles Rathkopf, Forschungszentrum Jülich
