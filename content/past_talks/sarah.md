@@ -3,7 +3,6 @@ title = 'July 5: Dr. Sarah Diner (Bonn)'
 date = 2024-07-05T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 2
 summary = "The ethics of cerebral organoid research: Searching for markers of consciousness"
 +++
 
