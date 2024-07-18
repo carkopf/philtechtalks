@@ -4,12 +4,12 @@ date = 2024-11-29T10:51:10+01:00
 draft = false
 hideMeta = true
 weight = 11
-summary = "TBD"
+summary = "TBA"
 +++
  
 
 #### Title
-TBD
+TBA
 
 #### Abstract
 TBA
