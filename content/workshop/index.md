@@ -33,5 +33,5 @@ Break
 "Suspended Responsibility. How Agential, Temporal, and Local Shifts Suspend Responsibility for Decisions Supported by Machine Learning"\
 Theresa Willem. Helmholtz Munich, TU Munich
 #### 16:45 - 17:30 
-"Foundation Models in Science: Some Risks and Opportunities"\
+"Deep Learning Models in Science: Some Risks and Opportunities"\
 Charles Rathkopf, Forschungszentrum Jülich
