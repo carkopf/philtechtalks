@@ -1,37 +1,29 @@
 +++
-title = 'Workshop on the ethics of AI in scientific research'
+title = 'Jülich-Eindhoven Workshop on the Philosophy of Deep Learning'
 date = 2023-11-17T00:00:10+00:00
 draft = false
 hideMeta = true
 
 [cover]
-image = "machinehead.jpeg"
+image = "eindhoven.jpg"
 relative = false
 +++
 
-## June 11, 2024
+## November 8, 2024
 
-
-### A Helmholtz AI Conference Prologue Workshop 
-This workshop is a satellite event of the larger [Helmholtz AI Conference](https://www.helmholtz.ai/themenmenue/latest/events/helmholtz-ai-conference-2024/index.html) in Düsseldorf which begins the following day, on June 12. Transportation between Düsseldorf and Jülich will be provided.  
+## Workshop Overview
+Deep learning model architectures are increasingly powerful, and are being used in increasingly many arenas of human life. To use them responsibly, we have to know something about how they work, and to what extent they process information like humans do. But that knowledge is hard to come by. In this workshop, we will discuss both how that knowledge might be gained, and how to use such deep learning models responsibly, given what we currently know.
+ 
 
 ## Schedule
-#### 13:00 - 13:15 
-Welcoming Remarks
-#### 13:15 - 14:00 
-"Brain age Prediction and the Challenge of Biological Concepts of Aging"\
-Hendrik Heinrichs, Forschungszentrum Jülich
-#### 14:00 - 14:45
-"Blackbox AI in Healthcare: How an Attitude of Pursuit can Mitigate Epistemic and Ethical Concerns"\
-Rooke Christy, Johns Hopkins University
-#### 14:45 - 15:30 
-"AI Ethics as a Form of Research Ethics"\
-Florian Richter, Technische Hochschule Ingolstadt
-#### 15:30 - 16:00
-Break
-#### 16:00 - 16:45
-"Suspended Responsibility. How Agential, Temporal, and Local Shifts Suspend Responsibility for Decisions Supported by Machine Learning"\
-Theresa Willem. Helmholtz Munich, TU Munich
-#### 16:45 - 17:30 
-"Deep Learning Models in Science: Some Risks and Opportunities"\
-Charles Rathkopf, Forschungszentrum Jülich
+
+- **10:00 - 10:40** Carlos Zednik. *XAI and justification*
+- **10:40 - 11:20** Marius Bartmann and Bert Heinrichs. *LLMs as semantic free riders*
+- **11:20 - 12:00** Celine Budding. *Tacit knowledge in LLMs*
+- **12:00 - 1:00 PM** Lunch
+- **1:00 - 1:40** Charles Rathkopf. *Hallucination and reliability*
+- **1:40 - 2:40** Roundtable discussion
+
+## Join our workshop
+
+If you would like to attend, please write to [Charles Rathkopf](mailto:c.rathkopf@fz-juelich.de).
