@@ -1,5 +1,5 @@
 +++
-title = 'October 18: Dr. Edmund Terem Ugar (Johannesburg)'
+title = 'October 18: Edmund Terem Ugar (Johannesburg)'
 date = 2024-10-18T10:00:10+01:00
 draft = false
 hideMeta = true
