@@ -3,7 +3,6 @@ title = 'October 18: Edmund Terem Ugar (Johannesburg)'
 date = 2024-10-18T10:00:10+01:00
 draft = false
 hideMeta = true
-weight = 7
 summary = "Promoting Responsible Use of AI in African Healthcare"
 +++
  
