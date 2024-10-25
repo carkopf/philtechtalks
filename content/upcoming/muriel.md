@@ -3,7 +3,7 @@ title = 'November 29: Dr. Muriel Leuenberger (Zurich)'
 date = 2024-11-29T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 11
+weight = 1
 summary = "TBA"
 +++
  

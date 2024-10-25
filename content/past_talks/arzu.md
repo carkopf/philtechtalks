@@ -3,7 +3,6 @@ title = 'October 25: Arzu Formanek (Vienna)'
 date = 2024-10-25T00:00:10+00:00
 draft = false
 hideMeta = true
-weight = 1
 summary = "Robotics affordance mixtures and early robot ethics"
 +++
 

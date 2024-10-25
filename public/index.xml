@@ -2,96 +2,168 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Phil.Tech.Talks</title>
-    <link>https://philtechtalks.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 00:00:10 +0000</lastBuildDate>
-    <atom:link href="https://philtechtalks.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Feb 2025 10:51:10 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>January 19: Vincent Müller</title>
-      <link>https://philtechtalks.netlify.app/past_talks/vincent/</link>
+      <title>November 29: Dr. Muriel Leuenberger (Zurich)</title>
+      <link>http://localhost:1313/upcoming/muriel/</link>
+      <pubDate>Fri, 29 Nov 2024 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/muriel/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
+      <title>January 24: Prof. Guido Löhr (Amsterdam)</title>
+      <link>http://localhost:1313/upcoming/guido/</link>
+      <pubDate>Fri, 24 Jan 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/guido/</guid>
+      <description>Conceptual Engineering</description>
+    </item>
+    <item>
+      <title>January 31: Dr. Charlotte Gauvry (Bonn)</title>
+      <link>http://localhost:1313/upcoming/charlotte/</link>
+      <pubDate>Fri, 31 Jan 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/charlotte/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
+      <title>February 7: Prof. Carina Prunkl (Utrecht/Oxford)</title>
+      <link>http://localhost:1313/upcoming/carina/</link>
+      <pubDate>Fri, 07 Feb 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/carina/</guid>
+      <description>Autonomy and AI</description>
+    </item>
+    <item>
+      <title>October 25: Arzu Formanek (Vienna)</title>
+      <link>http://localhost:1313/past_talks/arzu/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/past_talks/arzu/</guid>
+      <description>Robotics affordance mixtures and early robot ethics</description>
+    </item>
+    <item>
+      <title>October 18: Edmund Terem Ugar (Johannesburg)</title>
+      <link>http://localhost:1313/past_talks/edmund/</link>
+      <pubDate>Fri, 18 Oct 2024 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/edmund/</guid>
+      <description>Promoting Responsible Use of AI in African Healthcare</description>
+    </item>
+    <item>
+      <title>July 12: Prof. Avigail Ferdman (Technion)</title>
+      <link>http://localhost:1313/past_talks/avigail/</link>
+      <pubDate>Fri, 12 Jul 2024 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/avigail/</guid>
+      <description>AI, human-capacity habituation, and the deskilling problem</description>
+    </item>
+    <item>
+      <title>July 5: Dr. Sarah Diner (Bonn)</title>
+      <link>http://localhost:1313/past_talks/sarah/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/past_talks/sarah/</guid>
+      <description>The ethics of cerebral organoid research: Searching for markers of consciousness</description>
+    </item>
+    <item>
+      <title>June 21: Prof. Raphaël Millière (Macquarie)</title>
+      <link>http://localhost:1313/past_talks/rafael/</link>
+      <pubDate>Fri, 21 Jun 2024 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/rafael/</guid>
+      <description>The Alignment Problem in Context</description>
+    </item>
+    <item>
+      <title>May 17: Prof. Emma Ruttkamp-Bloem (Pretoria)</title>
+      <link>http://localhost:1313/past_talks/emma/</link>
       <pubDate>Fri, 17 May 2024 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/past_talks/vincent/</guid>
+      <guid>http://localhost:1313/past_talks/emma/</guid>
+      <description>What gives the Ethics of AI its Bad Name?</description>
+    </item>
+    <item>
+      <title>April 19: Prof. Sven Nyholm (LMU)</title>
+      <link>http://localhost:1313/past_talks/sven/</link>
+      <pubDate>Fri, 19 Apr 2024 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/sven/</guid>
+      <description>Russell and Floridi on Artificial Intelligence and Agency</description>
+    </item>
+    <item>
+      <title>April 12: Prof. Eva Schmidt (Dortmund)</title>
+      <link>http://localhost:1313/past_talks/eva/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/past_talks/eva/</guid>
+      <description>The Reasons of AI Systems</description>
+    </item>
+    <item>
+      <title>March 15: Dr. Julia Mönig (Bonn)</title>
+      <link>http://localhost:1313/past_talks/julia/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/past_talks/julia/</guid>
+      <description>The human behind human-centered AI</description>
+    </item>
+    <item>
+      <title>March 1: Dr. Sam Bennett (U. Georgia)</title>
+      <link>http://localhost:1313/past_talks/sam/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/past_talks/sam/</guid>
+      <description>The morality of smartphone use.</description>
+    </item>
+    <item>
+      <title>January 19: Prof. Vincent Müller (Erlangen)</title>
+      <link>http://localhost:1313/past_talks/vincent/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/past_talks/vincent/</guid>
       <description>Title: What should AI ethics try to achieve?</description>
     </item>
     <item>
-      <title>March 1: Sam Bennett</title>
-      <link>https://philtechtalks.netlify.app/upcoming/sam/</link>
-      <pubDate>Sat, 16 Mar 2024 10:51:10 +0100</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/sam/</guid>
-      <description>Human autonomy and recommender systems.</description>
-    </item>
-    <item>
-      <title>March 15: Julia Mönig</title>
-      <link>https://philtechtalks.netlify.app/upcoming/julia/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/julia/</guid>
-      <description>A talk on the legal regulation of artificial intelligence. Title forthcoming.</description>
-    </item>
-    <item>
-      <title>November 17: Tobias Schlicht</title>
-      <link>https://philtechtalks.netlify.app/past_talks/tobias/</link>
+      <title>Jülich-Eindhoven Workshop on the Philosophy of Deep Learning</title>
+      <link>http://localhost:1313/workshop/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/past_talks/tobias/</guid>
+      <guid>http://localhost:1313/workshop/</guid>
+      <description>&lt;h2 id=&#34;november-8-2024&#34;&gt;November 8, 2024&lt;/h2&gt;
+&lt;h2 id=&#34;workshop-overview&#34;&gt;Workshop Overview&lt;/h2&gt;
+&lt;p&gt;Deep learning model architectures are increasingly powerful, and are being used in increasingly many arenas of human life. To use them responsibly, we have to know something about how they work, and to what extent they process information like humans do. But that knowledge is hard to come by. In this workshop, we will discuss both how that knowledge might be gained, and how to use such deep learning models responsibly, given what we currently know.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>November 17: Prof. Tobias Schlicht (Bochum)</title>
+      <link>http://localhost:1313/past_talks/tobias/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/past_talks/tobias/</guid>
       <description>Title: What is social interaction?</description>
     </item>
     <item>
-      <title>October 27: Sebastian Weydner-Volkman</title>
-      <link>https://philtechtalks.netlify.app/past_talks/sebastian/</link>
+      <title>October 27: Prof. Sebastian Weydner-Volkman (Bochum)</title>
+      <link>http://localhost:1313/past_talks/sebastian/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/past_talks/sebastian/</guid>
+      <guid>http://localhost:1313/past_talks/sebastian/</guid>
       <description>Bewertung von KI-Feedback Systeme in der Lehre</description>
     </item>
     <item>
-      <title>April 12: Eva Schmidt</title>
-      <link>https://philtechtalks.netlify.app/upcoming/eva/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/eva/</guid>
-      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
-    </item>
-    <item>
-      <title>October 20: Martin Hähnel</title>
-      <link>https://philtechtalks.netlify.app/past_talks/martin/</link>
+      <title>October 20: Dr. Martin Hähnel (Bremen)</title>
+      <link>http://localhost:1313/past_talks/martin/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/past_talks/martin/</guid>
+      <guid>http://localhost:1313/past_talks/martin/</guid>
       <description>Dual-use and artificial intelligence</description>
     </item>
     <item>
-      <title>April 19: Sven Nyholm</title>
-      <link>https://philtechtalks.netlify.app/upcoming/sven/</link>
-      <pubDate>Fri, 19 Apr 2024 10:51:10 +0100</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/sven/</guid>
-      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
-    </item>
-    <item>
-      <title>June 2: Peter Königs</title>
-      <link>https://philtechtalks.netlify.app/past_talks/peter/</link>
+      <title>June 2: Prof. Peter Königs (Dortmund)</title>
+      <link>http://localhost:1313/past_talks/peter/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/past_talks/peter/</guid>
+      <guid>http://localhost:1313/past_talks/peter/</guid>
       <description>No well-being for robots (and hence no robot rights)</description>
     </item>
     <item>
-      <title>May 17: Emma Ruttkamp-Bloem</title>
-      <link>https://philtechtalks.netlify.app/upcoming/emma/</link>
-      <pubDate>Fri, 17 May 2024 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/emma/</guid>
-      <description>A talk on the ethics of artificial intelligence. Title forthcoming.</description>
-    </item>
-    <item>
-      <title>May 26: Janina Loh</title>
-      <link>https://philtechtalks.netlify.app/past_talks/janina/</link>
+      <title>May 26: Prof. Janina Loh (Bonn-Rhein-Sieg)</title>
+      <link>http://localhost:1313/past_talks/janina/</link>
       <pubDate>Fri, 26 May 2023 00:00:10 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/past_talks/janina/</guid>
+      <guid>http://localhost:1313/past_talks/janina/</guid>
       <description>Digitale Transformation im Gesundheitswesen</description>
     </item>
     <item>
       <title>Join our virtual meetings</title>
-      <link>https://philtechtalks.netlify.app/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://philtechtalks.netlify.app/contact/</guid>
-      <description>We meet on Fridays at 10:00 CET.
-If you would like to join the seminar, please write to Markus Rüther and ask to be added to the mailing list. You will then receive emails with the link to our Zoom invite each week.</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;We meet on Fridays at 10:00 CET.&lt;/p&gt;
+&lt;p&gt;If you would like to join the seminar, please write to &lt;a href=&#34;mailto:m.ruether@fz-juelich.de&#34;&gt;Markus Rüther&lt;/a&gt; and ask to be added to the mailing list. You will then receive emails with the link to our Zoom invite each week.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

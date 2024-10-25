@@ -2,52 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://philtechtalks.netlify.app/past_talks/vincent/</loc>
+    <loc>http://localhost:1313/upcoming/muriel/</loc>
+    <lastmod>2024-11-29T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/upcoming/guido/</loc>
+    <lastmod>2025-01-24T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/upcoming/charlotte/</loc>
+    <lastmod>2025-01-31T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/upcoming/carina/</loc>
+    <lastmod>2025-02-07T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-07T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/upcoming/</loc>
+    <lastmod>2025-02-07T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/arzu/</loc>
+    <lastmod>2024-10-25T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/</loc>
+    <lastmod>2024-10-25T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/edmund/</loc>
+    <lastmod>2024-10-18T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/avigail/</loc>
+    <lastmod>2024-07-12T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/sarah/</loc>
+    <lastmod>2024-07-05T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/rafael/</loc>
+    <lastmod>2024-06-21T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/emma/</loc>
     <lastmod>2024-05-17T00:00:10+00:00</lastmod>
   </url><url>
-    <loc>https://philtechtalks.netlify.app/upcoming/sam/</loc>
-    <lastmod>2024-03-16T10:51:10+01:00</lastmod>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/upcoming/julia/</loc>
-    <lastmod>2024-03-15T00:00:10+00:00</lastmod>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/past_talks/tobias/</loc>
-    <lastmod>2023-11-17T00:00:10+00:00</lastmod>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/past_talks/sebastian/</loc>
-    <lastmod>2023-10-27T00:00:10+00:00</lastmod>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/upcoming/eva/</loc>
-    <lastmod>2024-04-12T00:00:10+00:00</lastmod>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/past_talks/martin/</loc>
-    <lastmod>2023-10-20T00:00:10+00:00</lastmod>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/upcoming/sven/</loc>
+    <loc>http://localhost:1313/past_talks/sven/</loc>
     <lastmod>2024-04-19T10:51:10+01:00</lastmod>
   </url><url>
-    <loc>https://philtechtalks.netlify.app/past_talks/peter/</loc>
+    <loc>http://localhost:1313/past_talks/eva/</loc>
+    <lastmod>2024-04-12T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/julia/</loc>
+    <lastmod>2024-03-15T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/sam/</loc>
+    <lastmod>2024-03-01T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/vincent/</loc>
+    <lastmod>2024-01-17T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/workshop/</loc>
+    <lastmod>2023-11-17T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/tobias/</loc>
+    <lastmod>2023-11-17T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/sebastian/</loc>
+    <lastmod>2023-10-27T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/martin/</loc>
+    <lastmod>2023-10-20T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/peter/</loc>
     <lastmod>2023-06-02T00:00:10+00:00</lastmod>
   </url><url>
-    <loc>https://philtechtalks.netlify.app/upcoming/emma/</loc>
-    <lastmod>2024-05-17T00:00:10+00:00</lastmod>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/past_talks/janina/</loc>
+    <loc>http://localhost:1313/past_talks/janina/</loc>
     <lastmod>2023-05-26T00:00:10+00:00</lastmod>
   </url><url>
-    <loc>https://philtechtalks.netlify.app/past_talks/</loc>
-    <lastmod>2024-05-17T00:00:10+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://philtechtalks.netlify.app/</loc>
-    <lastmod>2024-05-17T00:00:10+00:00</lastmod>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://philtechtalks.netlify.app/upcoming/</loc>
-    <lastmod>2024-05-17T00:00:10+00:00</lastmod>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/categories/</loc>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/contact/</loc>
-  </url><url>
-    <loc>https://philtechtalks.netlify.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
