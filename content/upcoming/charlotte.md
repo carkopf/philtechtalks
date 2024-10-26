@@ -3,13 +3,13 @@ title = 'January 31: Dr. Charlotte Gauvry (Bonn)'
 date = 2025-01-31T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 4
-summary = "TBA"
+weight = 8
+summary = "Valenced sentietism"
 +++
  
 
 #### Title
-TBA
+Valenced sentientism as a promising framework for addressing the ethical challenges raised by neurosurgery called hemispherotomy
 
 #### Abstract
 TBA

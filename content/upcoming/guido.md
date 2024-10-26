@@ -3,13 +3,13 @@ title = 'January 24: Prof. Guido Löhr (Amsterdam)'
 date = 2025-01-24T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 3
-summary = "Conceptual Engineering"
+weight = 6
+summary = "Can AI be a scientist?: A Conceptual Engineering Approach"
 +++
  
 
 #### Title
-Conceptual Engineering
+Can AI be a scientist?: A Conceptual Engineering Approach
 
 #### Abstract
 TBA

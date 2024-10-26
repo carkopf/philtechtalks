@@ -4,13 +4,12 @@ date = 2025-02-07T10:51:10+01:00
 draft = false
 hideMeta = true
 weight = 10
-summary = "Autonomy and AI"
+summary = "Are algorithms more objective than humans?"
 +++
  
 
 #### Title
-Autonomy and AI 
- 
+Are algorithms more objective than humans? On the objectivity and epistemic authority of algorithms 
 #### Abstract
  
 TBA
