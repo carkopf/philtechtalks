@@ -89,7 +89,7 @@
     {{- partial "post_meta.html" . -}}
   </footer>
   {{- end }}
-  <a class="entry-link" aria-label="post link to {{ .Title }}" href="{{ .Permalink }}"></a>
+  <a class="entry-link" aria-label="post link to {{ .Title }}" href="{{ .Params.url | relURL }}"></a>
 </article>
 {{- end }}
 
