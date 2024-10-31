@@ -4,12 +4,12 @@ date = 2024-11-29T10:51:10+01:00
 draft = false
 hideMeta = true
 weight = 5
-summary = "TBA"
+summary = "The value of authenticity for meaning in life and implications for emerging technologies"
 +++
  
 
 #### Title
-TBA
+The value of authenticity for meaning in life and implications for emerging technologies
 
 #### Abstract
 TBA
