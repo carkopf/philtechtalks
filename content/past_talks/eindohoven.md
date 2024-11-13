@@ -3,7 +3,6 @@ title = 'November 8: Jülich-Eindhoven Workshop on the Philosophy of Deep Learni
 date = 2025-02-07T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 2
 summary = "with Carlos Zednik"
 url = "/workshop/"
 +++
