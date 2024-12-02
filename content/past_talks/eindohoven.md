@@ -1,6 +1,6 @@
 +++
 title = 'November 8: Jülich-Eindhoven Workshop on the Philosophy of Deep Learning'
-date = 2025-02-07T10:51:10+01:00
+date = 2024-11-08T10:51:10+01:00
 draft = false
 hideMeta = true
 summary = "with Carlos Zednik"

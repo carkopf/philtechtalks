@@ -3,7 +3,6 @@ title = 'November 29: Dr. Muriel Leuenberger (Zurich)'
 date = 2024-11-29T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 5
 summary = "The value of authenticity for meaning in life and implications for emerging technologies"
 +++
  
@@ -12,7 +11,6 @@ summary = "The value of authenticity for meaning in life and implications for em
 The value of authenticity for meaning in life and implications for emerging technologies
 
 #### Abstract
-TBA
  
 
 #### About [Muriel](https://murielleuenberger.com)

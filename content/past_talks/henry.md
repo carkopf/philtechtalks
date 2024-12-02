@@ -1,9 +1,8 @@
 +++
 title = 'November 22: Prof. Henry Shevlin (Cambridge)'
-date = 2025-02-07T10:51:10+01:00
+date = 2024-11-22T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 1
 summary = "Consciousness, Machines, and Moral Status"
 +++
  

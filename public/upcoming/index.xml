@@ -9,20 +9,6 @@
     <lastBuildDate>Fri, 14 Feb 2025 10:51:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>November 22: Prof. Henry Shevlin (Cambridge)</title>
-      <link>http://localhost:1313/upcoming/henry/</link>
-      <pubDate>Fri, 07 Feb 2025 10:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/henry/</guid>
-      <description>Consciousness, Machines, and Moral Status</description>
-    </item>
-    <item>
-      <title>November 29: Dr. Muriel Leuenberger (Zurich)</title>
-      <link>http://localhost:1313/upcoming/muriel/</link>
-      <pubDate>Fri, 29 Nov 2024 10:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/muriel/</guid>
-      <description>The value of authenticity for meaning in life and implications for emerging technologies</description>
-    </item>
-    <item>
       <title>January 24: Prof. Guido Löhr (Amsterdam)</title>
       <link>http://localhost:1313/upcoming/guido/</link>
       <pubDate>Fri, 24 Jan 2025 10:51:10 +0100</pubDate>
@@ -48,7 +34,7 @@
       <link>http://localhost:1313/upcoming/anna/</link>
       <pubDate>Fri, 14 Feb 2025 10:51:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/anna/</guid>
-      <description>Chapter from forthcoming book &lt;em&gt;Inbetweenism&lt;/em&gt;</description>
+      <description>Chapter from forthcoming book &amp;lsquo;Inbetweenism&amp;rsquo;</description>
     </item>
   </channel>
 </rss>
