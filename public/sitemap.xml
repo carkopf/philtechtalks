@@ -20,17 +20,17 @@
     <loc>http://localhost:1313/upcoming/</loc>
     <lastmod>2025-02-14T10:51:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/past_talks/henry/</loc>
-    <lastmod>2025-02-07T10:51:10+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/workshop/</loc>
-    <lastmod>2025-02-07T10:51:10+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/past_talks/</loc>
-    <lastmod>2025-02-07T10:51:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/past_talks/muriel/</loc>
     <lastmod>2024-11-29T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/</loc>
+    <lastmod>2024-11-29T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/henry/</loc>
+    <lastmod>2024-11-22T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/workshop/</loc>
+    <lastmod>2024-11-08T10:51:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/arzu/</loc>
     <lastmod>2024-10-25T00:00:10+00:00</lastmod>
