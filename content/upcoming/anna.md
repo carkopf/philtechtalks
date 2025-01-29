@@ -3,7 +3,6 @@ title = 'February 14: Dr. Anna Strasser (Denk Werkstatt Berlin)'
 date = 2025-02-14T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 13
 summary = "Chapter from forthcoming book 'Inbetweenism' "
 +++
  
