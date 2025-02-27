@@ -1,5 +1,5 @@
 +++
-title = 'March 21: Dr. Charlotte Unruh (some place)'
+title = 'March 21: Professor Charlotte Unruh (University of Southhampton)'
 date = 2025-03-21T10:00:10+01:00
 draft = false
 hideMeta = true

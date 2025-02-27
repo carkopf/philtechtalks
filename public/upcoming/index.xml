@@ -13,21 +13,21 @@
       <link>http://localhost:1313/upcoming/johannes/</link>
       <pubDate>Fri, 07 Mar 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/johannes/</guid>
-      <description>Some topic</description>
+      <description>A physical approach to qualia</description>
     </item>
     <item>
       <title>March 21: Dr. Charlotte Unruh (some place)</title>
       <link>http://localhost:1313/upcoming/charlotte_u/</link>
       <pubDate>Fri, 21 Mar 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/charlotte_u/</guid>
-      <description>Some topic</description>
+      <description>Something on AI ethics</description>
     </item>
     <item>
       <title>June 26: Professor Seth Lazar (Australian National University)</title>
       <link>http://localhost:1313/upcoming/seth/</link>
       <pubDate>Thu, 26 Jun 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/seth/</guid>
-      <description>Some topic</description>
+      <description>Something on AI ethics</description>
     </item>
   </channel>
 </rss>

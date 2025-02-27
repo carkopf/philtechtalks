@@ -1,5 +1,5 @@
 +++
-title = 'March 07: Dr. Johannes Lierfeld (some place)'
+title = 'March 07: Dr. Johannes Lierfeld'
 date = 2025-03-07T10:00:10+01:00
 draft = false
 hideMeta = true
