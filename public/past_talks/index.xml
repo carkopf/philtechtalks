@@ -6,7 +6,7 @@
     <description>Recent content in Past_talks on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2025 10:51:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 10:51:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/past_talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>January 24: Prof. Guido Löhr (Amsterdam)</title>
@@ -14,6 +14,27 @@
       <pubDate>Fri, 24 Jan 2025 10:51:10 +0100</pubDate>
       <guid>http://localhost:1313/past_talks/guido/</guid>
       <description>Can AI be a scientist?: A Conceptual Engineering Approach</description>
+    </item>
+    <item>
+      <title>February 14: Dr. Anna Strasser (Denk Werkstatt Berlin)</title>
+      <link>http://localhost:1313/past_talks/anna/</link>
+      <pubDate>Fri, 14 Feb 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/anna/</guid>
+      <description>Chapter from forthcoming book &amp;lsquo;Inbetweenism&amp;rsquo;</description>
+    </item>
+    <item>
+      <title>February 7: Prof. Carina Prunkl (Utrecht/Oxford)</title>
+      <link>http://localhost:1313/past_talks/carina/</link>
+      <pubDate>Fri, 07 Feb 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/carina/</guid>
+      <description>Are algorithms more objective than humans?</description>
+    </item>
+    <item>
+      <title>January 31: Dr. Charlotte Gauvry (Bonn)</title>
+      <link>http://localhost:1313/past_talks/charlotte/</link>
+      <pubDate>Fri, 31 Jan 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/charlotte/</guid>
+      <description>Valenced sentietism</description>
     </item>
     <item>
       <title>November 29: Dr. Muriel Leuenberger (Zurich)</title>

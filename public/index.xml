@@ -6,8 +6,22 @@
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2025 10:51:10 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March 07: Dr. Johannes Lierfeld (some place)</title>
+      <link>http://localhost:1313/upcoming/johannes/</link>
+      <pubDate>Fri, 07 Mar 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/johannes/</guid>
+      <description>A physical approach to qualia</description>
+    </item>
+    <item>
+      <title>March 21: Dr. Charlotte Unruh (some place)</title>
+      <link>http://localhost:1313/upcoming/charlotte_u/</link>
+      <pubDate>Fri, 21 Mar 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/charlotte_u/</guid>
+      <description>Something on AI ethics</description>
+    </item>
     <item>
       <title>January 24: Prof. Guido Löhr (Amsterdam)</title>
       <link>http://localhost:1313/past_talks/guido/</link>
@@ -16,25 +30,32 @@
       <description>Can AI be a scientist?: A Conceptual Engineering Approach</description>
     </item>
     <item>
-      <title>January 31: Dr. Charlotte Gauvry (Bonn)</title>
-      <link>http://localhost:1313/upcoming/charlotte/</link>
-      <pubDate>Fri, 31 Jan 2025 10:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/charlotte/</guid>
-      <description>Valenced sentietism</description>
-    </item>
-    <item>
-      <title>February 7: Prof. Carina Prunkl (Utrecht/Oxford)</title>
-      <link>http://localhost:1313/upcoming/carina/</link>
-      <pubDate>Fri, 07 Feb 2025 10:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/carina/</guid>
-      <description>Are algorithms more objective than humans?</description>
+      <title>June 26: Professor Seth Lazar (Australian National University)</title>
+      <link>http://localhost:1313/upcoming/seth/</link>
+      <pubDate>Thu, 26 Jun 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/seth/</guid>
+      <description>Something on AI ethics</description>
     </item>
     <item>
       <title>February 14: Dr. Anna Strasser (Denk Werkstatt Berlin)</title>
-      <link>http://localhost:1313/upcoming/anna/</link>
+      <link>http://localhost:1313/past_talks/anna/</link>
       <pubDate>Fri, 14 Feb 2025 10:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/anna/</guid>
+      <guid>http://localhost:1313/past_talks/anna/</guid>
       <description>Chapter from forthcoming book &amp;lsquo;Inbetweenism&amp;rsquo;</description>
+    </item>
+    <item>
+      <title>February 7: Prof. Carina Prunkl (Utrecht/Oxford)</title>
+      <link>http://localhost:1313/past_talks/carina/</link>
+      <pubDate>Fri, 07 Feb 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/carina/</guid>
+      <description>Are algorithms more objective than humans?</description>
+    </item>
+    <item>
+      <title>January 31: Dr. Charlotte Gauvry (Bonn)</title>
+      <link>http://localhost:1313/past_talks/charlotte/</link>
+      <pubDate>Fri, 31 Jan 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/charlotte/</guid>
+      <description>Valenced sentietism</description>
     </item>
     <item>
       <title>November 29: Dr. Muriel Leuenberger (Zurich)</title>

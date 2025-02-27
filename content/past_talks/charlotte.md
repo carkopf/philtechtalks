@@ -3,7 +3,6 @@ title = 'January 31: Dr. Charlotte Gauvry (Bonn)'
 date = 2025-01-31T10:51:10+01:00
 draft = false
 hideMeta = true
-weight = 8
 summary = "Valenced sentietism"
 +++
  
