@@ -1,5 +1,5 @@
 +++
-title = 'March 07: Dr. Johannes Lierfeld'
+title = 'March 07: Dr. Johannes Lierfeld (Munich)'
 date = 2025-03-07T10:00:10+01:00
 draft = false
 hideMeta = true
@@ -16,7 +16,7 @@ Through the advent of modern neurotechnology like brain-computer interfaces (abb
 
  
 
-#### About [Johannes](some website)
+#### About Johannes
 Dr. phil. Johannes Lierfeld is a German author, screenwriter, and AI ethics researcher. He studied media studies, German studies, and phonetics in Marburg and Cologne, earning his doctorate in 2015 from the University of Cologne with a dissertation on terrorism, media, and cinema in the post-9/11 era.
 
 He began his career as a screenwriter, contributing to SOKO Köln and developing series concepts for ProSieben and Sat.1. In 2009, he co-wrote the award-winning science fiction thriller 2012. Since 2014, he has focused on AI and ethics, publishing seven non-fiction books on the subject. His first novel, MEDICA (2017), was co-written with AI developer Scott Cote, followed by the non-fiction Artificial Superintelligence: Utopias, Dystopias, Disruptions (2018).

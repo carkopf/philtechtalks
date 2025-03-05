@@ -8,9 +8,6 @@
     <loc>http://localhost:1313/upcoming/charlotte_u/</loc>
     <lastmod>2025-03-21T10:00:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/past_talks/guido/</loc>
-    <lastmod>2025-01-24T10:51:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/upcoming/seth/</loc>
     <lastmod>2025-06-26T10:00:10+01:00</lastmod>
   </url><url>
@@ -31,6 +28,9 @@
   </url><url>
     <loc>http://localhost:1313/past_talks/charlotte/</loc>
     <lastmod>2025-01-31T10:51:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/guido/</loc>
+    <lastmod>2025-01-24T10:51:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/muriel/</loc>
     <lastmod>2024-11-29T10:51:10+01:00</lastmod>
