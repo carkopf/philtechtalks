@@ -3,13 +3,15 @@ title = 'March 21: Professor Charlotte Unruh (University of Southhampton)'
 date = 2025-03-21T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "Automation and meaningful work"
+summary = "Automation and meaningful work (NB: to be held at 13:00, not 10:00)"
 weight = 3
 +++
  
 
 #### Title
 Automation and meaningful work
+
+❗ **Note: This colloquium will take place at 13:00 instead of the usual 10:00.** ❗
 
 #### Abstract
 In this talk, I argue that meaning in life has a more substantive subjective element than is commonly thought. This claim, if correct, has significant implications for debates on meaningful work. I argue that the meaningfulness of work can come apart from the extent to which workers obtain achievements at work. In doing so, I respond to Danaher and Nyholm’s (2021) recent argument that automation threatens meaningful work by leading to ‘achievement gaps’. Pace Danaher and Nyholm, I argue that even if automation threatens achievement, it does not necessarily follow that it threatens meaningful work.
