@@ -4,7 +4,6 @@ date = 2025-03-07T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "A physical approach to qualia"
-weight = 1
 +++
  
 

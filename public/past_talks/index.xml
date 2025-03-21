@@ -6,8 +6,15 @@
     <description>Recent content in Past_talks on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2025 10:51:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/past_talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March 07: Dr. Johannes Lierfeld (Munich)</title>
+      <link>http://localhost:1313/past_talks/johannes/</link>
+      <pubDate>Fri, 07 Mar 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/johannes/</guid>
+      <description>A physical approach to qualia</description>
+    </item>
     <item>
       <title>February 14: Dr. Anna Strasser (Denk Werkstatt Berlin)</title>
       <link>http://localhost:1313/past_talks/anna/</link>

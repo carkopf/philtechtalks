@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/upcoming/johannes/</loc>
-    <lastmod>2025-03-07T10:00:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/upcoming/charlotte_u/</loc>
     <lastmod>2025-03-21T10:00:10+01:00</lastmod>
   </url><url>
@@ -17,10 +14,13 @@
     <loc>http://localhost:1313/upcoming/</loc>
     <lastmod>2025-06-26T10:00:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/past_talks/anna/</loc>
-    <lastmod>2025-02-14T10:51:10+01:00</lastmod>
+    <loc>http://localhost:1313/past_talks/johannes/</loc>
+    <lastmod>2025-03-07T10:00:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/</loc>
+    <lastmod>2025-03-07T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/anna/</loc>
     <lastmod>2025-02-14T10:51:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/carina/</loc>

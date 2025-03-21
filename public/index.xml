@@ -6,15 +6,8 @@
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>March 07: Dr. Johannes Lierfeld (Munich)</title>
-      <link>http://localhost:1313/upcoming/johannes/</link>
-      <pubDate>Fri, 07 Mar 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/johannes/</guid>
-      <description>A physical approach to qualia</description>
-    </item>
     <item>
       <title>March 21: Professor Charlotte Unruh (University of Southhampton)</title>
       <link>http://localhost:1313/upcoming/charlotte_u/</link>
@@ -28,6 +21,20 @@
       <pubDate>Thu, 26 Jun 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/seth/</guid>
       <description>Something on AI ethics</description>
+    </item>
+    <item>
+      <title>October 10: Professor Kate Vredenburgh (London School of Economics)</title>
+      <link>http://localhost:1313/upcoming/kate/</link>
+      <pubDate>Fri, 10 Oct 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/kate/</guid>
+      <description>Probably something on AI and the Future of Work</description>
+    </item>
+    <item>
+      <title>March 07: Dr. Johannes Lierfeld (Munich)</title>
+      <link>http://localhost:1313/past_talks/johannes/</link>
+      <pubDate>Fri, 07 Mar 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/johannes/</guid>
+      <description>A physical approach to qualia</description>
     </item>
     <item>
       <title>February 14: Dr. Anna Strasser (Denk Werkstatt Berlin)</title>
