@@ -6,8 +6,15 @@
     <description>Recent content in Past_talks on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2025 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/past_talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March 21: Professor Charlotte Unruh (University of Southhampton)</title>
+      <link>http://localhost:1313/past_talks/charlotte_u/</link>
+      <pubDate>Fri, 21 Mar 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/charlotte_u/</guid>
+      <description>Automation and meaningful work (NB: to be held at 13:00, not 10:00)</description>
+    </item>
     <item>
       <title>March 07: Dr. Johannes Lierfeld (Munich)</title>
       <link>http://localhost:1313/past_talks/johannes/</link>

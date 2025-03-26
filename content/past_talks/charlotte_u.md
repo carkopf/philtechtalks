@@ -4,7 +4,6 @@ date = 2025-03-21T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Automation and meaningful work (NB: to be held at 13:00, not 10:00)"
-weight = 3
 +++
  
 
