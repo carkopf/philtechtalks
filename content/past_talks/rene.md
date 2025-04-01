@@ -4,7 +4,6 @@ date = 2025-06-26T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Gruppenbezogene Diskriminierung (NB: This talk will be held in German)"
-weight = 1
 +++
  
 
