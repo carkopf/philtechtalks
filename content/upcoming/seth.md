@@ -4,7 +4,7 @@ date = 2025-06-26T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Something on AI ethics"
-weight = 3
+weight = 11
 +++
  
 

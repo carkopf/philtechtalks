@@ -4,7 +4,6 @@ date = 2025-04-11T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Reasoning dependency"
-weight = 1
 +++
  
 
