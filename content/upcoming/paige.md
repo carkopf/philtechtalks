@@ -1,5 +1,5 @@
 +++
-title = 'June 13: Paige Benton (University of Johannesburg)'
+title = 'June 13: Dr. Paige Benton (University of Johannesburg)'
 date = 2025-06-10T10:00:10+01:00
 draft = false
 hideMeta = true

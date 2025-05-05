@@ -1,10 +1,10 @@
 +++
-title = 'September 26: Fabio Tollon and Enrico Galvagni (Edinburgh)'
+title = 'September 26: Dr. Fabio Tollon and Dr. Enrico Galvagni (Edinburgh)'
 date = 2025-09-26T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Conceptual engineering and responsibility"
-weight = 30
+weight = 35
 +++
  
 

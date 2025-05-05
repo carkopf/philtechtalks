@@ -1,5 +1,5 @@
 +++
-title = 'May 9th: Silvia Milano (Exeter University)'
+title = 'May 9: Professor Silvia Milano (Exeter University)'
 date = 2025-05-09T10:00:10+01:00
 draft = false
 hideMeta = true

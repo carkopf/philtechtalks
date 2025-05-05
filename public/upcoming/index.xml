@@ -6,14 +6,14 @@
     <description>Recent content in Upcoming on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Oct 2025 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>May 9th: Silvia Milano (Exeter University)</title>
+      <title>May 9: Professor Silvia Milano (Exeter University)</title>
       <link>http://localhost:1313/upcoming/silvia/</link>
       <pubDate>Fri, 09 May 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/silvia/</guid>
-      <description>TBD</description>
+      <description>Algorithmic recommendations: What&amp;rsquo;s the problem?</description>
     </item>
     <item>
       <title>May 23: Professor Marco Tamborini (TU Darmstadt)</title>
@@ -23,7 +23,7 @@
       <description>TBD</description>
     </item>
     <item>
-      <title>June 13: Paige Benton (University of Johannesburg)</title>
+      <title>June 13: Dr. Paige Benton (University of Johannesburg)</title>
       <link>http://localhost:1313/upcoming/paige/</link>
       <pubDate>Tue, 10 Jun 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/paige/</guid>
@@ -44,11 +44,39 @@
       <description>TBD</description>
     </item>
     <item>
+      <title>June 6: Guido Cassinadri (Sant&#39;Anna)</title>
+      <link>http://localhost:1313/upcoming/guidoc/</link>
+      <pubDate>Fri, 06 Jun 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/guidoc/</guid>
+      <description>TBD</description>
+    </item>
+    <item>
       <title>October 10: Professor Kate Vredenburgh (London School of Economics)</title>
       <link>http://localhost:1313/upcoming/kate/</link>
       <pubDate>Fri, 10 Oct 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/kate/</guid>
       <description>Probably something on AI and the Future of Work</description>
+    </item>
+    <item>
+      <title>September 26: Dr. Fabio Tollon and Dr. Enrico Galvagni (Edinburgh)</title>
+      <link>http://localhost:1313/upcoming/fabio/</link>
+      <pubDate>Fri, 26 Sep 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/fabio/</guid>
+      <description>Conceptual engineering and responsibility</description>
+    </item>
+    <item>
+      <title>October 17: Giuseppe Comerci (Bonn)</title>
+      <link>http://localhost:1313/upcoming/giuseppe/</link>
+      <pubDate>Fri, 17 Oct 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/giuseppe/</guid>
+      <description>TBD</description>
+    </item>
+    <item>
+      <title>November 7: Dr. John Dorsch (Czech Academy of the Sciences)</title>
+      <link>http://localhost:1313/upcoming/john/</link>
+      <pubDate>Fri, 07 Nov 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/john/</guid>
+      <description>TBD</description>
     </item>
   </channel>
 </rss>
