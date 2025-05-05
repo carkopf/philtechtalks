@@ -9,20 +9,6 @@
     <lastBuildDate>Fri, 10 Oct 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>April 11: Professor Michael Klenk (Delft University)</title>
-      <link>http://localhost:1313/upcoming/michael/</link>
-      <pubDate>Fri, 11 Apr 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/michael/</guid>
-      <description>Reasoning dependency</description>
-    </item>
-    <item>
-      <title>June 13: Paige Benton (University of Johannesburg)</title>
-      <link>http://localhost:1313/upcoming/paige/</link>
-      <pubDate>Tue, 10 Jun 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/paige/</guid>
-      <description>AI Technology as a Hostile Epistemology</description>
-    </item>
-    <item>
       <title>May 9th: Silvia Milano (Exeter University)</title>
       <link>http://localhost:1313/upcoming/silvia/</link>
       <pubDate>Fri, 09 May 2025 10:00:10 +0100</pubDate>
@@ -35,6 +21,13 @@
       <pubDate>Fri, 23 May 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/-marco/</guid>
       <description>TBD</description>
+    </item>
+    <item>
+      <title>June 13: Paige Benton (University of Johannesburg)</title>
+      <link>http://localhost:1313/upcoming/paige/</link>
+      <pubDate>Tue, 10 Jun 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/paige/</guid>
+      <description>AI Technology as a Hostile Epistemology</description>
     </item>
     <item>
       <title>June 26: Professor Seth Lazar (Australian National University)</title>

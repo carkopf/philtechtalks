@@ -3,16 +3,17 @@ title = 'May 9th: Silvia Milano (Exeter University)'
 date = 2025-05-09T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "TBD"
+summary = "Algorithmic recommendations: What's the problem?"
 weight = 1
 +++
  
 
 #### Title
-TBD
+Algorithmic Recommendations: What’s the problem?
 
 #### Abstract
-TBD 
+We live in an increasingly datafied world, where information is abundant but difficult to navigate. In this context, we have become accustomed to interacting with recommender systems that personalise and structure the information we access in digital environments, which have emerged as one of the foremost applications of machine learning today. After introducing the basic features and techniques for algorithmic recommenders, I consider a currently dominant problem formulation for algorithmic recommendations in terms of a prediction task and critically assess its epistemological and normative assumptions.
+ 
 
 #### About [Silvia](https://sites.google.com/view/silvia-milano/home)
 
