@@ -23,6 +23,13 @@
       <description>TBD</description>
     </item>
     <item>
+      <title>June 6: Guido Cassinadri (Sant&#39;Anna)</title>
+      <link>http://localhost:1313/upcoming/guidoc/</link>
+      <pubDate>Fri, 06 Jun 2025 10:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/guidoc/</guid>
+      <description>TBD</description>
+    </item>
+    <item>
       <title>June 13: Dr. Paige Benton (University of Johannesburg)</title>
       <link>http://localhost:1313/upcoming/paige/</link>
       <pubDate>Tue, 10 Jun 2025 10:00:10 +0100</pubDate>
@@ -41,13 +48,6 @@
       <link>http://localhost:1313/upcoming/lucas/</link>
       <pubDate>Fri, 10 Oct 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/lucas/</guid>
-      <description>TBD</description>
-    </item>
-    <item>
-      <title>June 6: Guido Cassinadri (Sant&#39;Anna)</title>
-      <link>http://localhost:1313/upcoming/guidoc/</link>
-      <pubDate>Fri, 06 Jun 2025 10:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/guidoc/</guid>
       <description>TBD</description>
     </item>
     <item>
@@ -76,7 +76,7 @@
       <link>http://localhost:1313/upcoming/john/</link>
       <pubDate>Fri, 07 Nov 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/john/</guid>
-      <description>TBD</description>
+      <description>Critique of AI Welfare</description>
     </item>
   </channel>
 </rss>
