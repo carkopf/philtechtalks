@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/upcoming/silvia/</loc>
-    <lastmod>2025-05-09T10:00:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/upcoming/-marco/</loc>
     <lastmod>2025-05-23T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/silvia/</loc>
+    <lastmod>2025-05-09T10:00:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/upcoming/guidoc/</loc>
     <lastmod>2025-06-06T10:51:10+01:00</lastmod>
