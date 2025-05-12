@@ -3,14 +3,14 @@ title = 'June 13: Dr. Paige Benton (University of Johannesburg)'
 date = 2025-06-10T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "AI Technology as a Hostile Epistemology"
+summary = "AI technology as hostile epistemology"
 weight = 9
 +++
  
 
 #### Title
-AI Technology as a Hostile Epistemology:
-A Threat to Democratic Legitimacy
+AI technology as hostile epistemology:
+A threat to democratic legitimacy
 
 #### Abstract
 C. Thi Nguyen developed the notion ‘Hostile Epistemology’ (2021, 2023) and defined it as “the

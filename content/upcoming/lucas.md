@@ -3,13 +3,13 @@ title = 'July 4: Professor Lucas Scripter (Hong Kong Polytechnic)'
 date = 2025-10-10T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "TBD"
+summary = "Ground projects in the age of artificial intelligence"
 weight = 14
 +++
  
 
 #### Title
-TBA
+Ground projects in the age of artificial intelligence
 
 #### Abstract
 TBA 
