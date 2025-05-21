@@ -5,9 +5,6 @@
     <loc>http://localhost:1313/upcoming/-marco/</loc>
     <lastmod>2025-05-23T10:00:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/past_talks/silvia/</loc>
-    <lastmod>2025-05-09T10:00:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/upcoming/guidoc/</loc>
     <lastmod>2025-06-06T10:51:10+01:00</lastmod>
   </url><url>
@@ -43,6 +40,9 @@
   </url><url>
     <loc>http://localhost:1313/past_talks/</loc>
     <lastmod>2025-06-26T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/silvia/</loc>
+    <lastmod>2025-05-09T10:00:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/michael/</loc>
     <lastmod>2025-04-11T10:00:10+01:00</lastmod>

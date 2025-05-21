@@ -3,13 +3,13 @@ title = 'May 23: Professor Marco Tamborini (TU Darmstadt)'
 date = 2025-05-23T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "TBD"
+summary = "Bioinspired Animal-Robot Interaction"
 weight = 1
 +++
  
 
 #### Title
-TBA
+Bioinspired Animal-Robot Interaction: A Relational Meta-Ethical Approach
 
 #### Abstract
 TBA 

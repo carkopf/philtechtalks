@@ -13,14 +13,7 @@
       <link>http://localhost:1313/upcoming/-marco/</link>
       <pubDate>Fri, 23 May 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/-marco/</guid>
-      <description>TBD</description>
-    </item>
-    <item>
-      <title>May 9: Professor Silvia Milano (Exeter University)</title>
-      <link>http://localhost:1313/past_talks/silvia/</link>
-      <pubDate>Fri, 09 May 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/past_talks/silvia/</guid>
-      <description>Algorithmic recommendations: What&amp;rsquo;s the problem?</description>
+      <description>Bioinspired Animal-Robot Interaction</description>
     </item>
     <item>
       <title>June 6: Guido Cassinadri (Sant&#39;Anna)</title>
@@ -84,6 +77,13 @@
       <pubDate>Thu, 26 Jun 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/past_talks/rene/</guid>
       <description>Gruppenbezogene Diskriminierung (NB: This talk will be held in German)</description>
+    </item>
+    <item>
+      <title>May 9: Professor Silvia Milano (Exeter University)</title>
+      <link>http://localhost:1313/past_talks/silvia/</link>
+      <pubDate>Fri, 09 May 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/silvia/</guid>
+      <description>Algorithmic recommendations: What&amp;rsquo;s the problem?</description>
     </item>
     <item>
       <title>April 11: Professor Michael Klenk (Delft University)</title>
