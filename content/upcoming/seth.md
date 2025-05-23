@@ -3,7 +3,7 @@ title = 'June 26: Professor Seth Lazar (Australian National University)'
 date = 2025-06-26T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "Something on AI ethics"
+summary = "On AI Personhood Without Sentience"
 weight = 11
 +++
  
