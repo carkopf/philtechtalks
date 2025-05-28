@@ -1,6 +1,6 @@
 +++
-title = 'June 26: Professor Seth Lazar (Australian National University)'
-date = 2025-06-26T10:00:10+01:00
+title = 'June 27: Professor Seth Lazar (Australian National University)'
+date = 2025-06-27T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "On AI Personhood Without Sentience"
