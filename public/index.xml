@@ -9,13 +9,6 @@
     <lastBuildDate>Fri, 07 Nov 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>May 23: Professor Marco Tamborini (TU Darmstadt)</title>
-      <link>http://localhost:1313/upcoming/-marco/</link>
-      <pubDate>Fri, 23 May 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/-marco/</guid>
-      <description>Bioinspired Animal-Robot Interaction</description>
-    </item>
-    <item>
       <title>June 6: Guido Cassinadri (Sant&#39;Anna)</title>
       <link>http://localhost:1313/upcoming/guidoc/</link>
       <pubDate>Fri, 06 Jun 2025 10:51:10 +0100</pubDate>
@@ -30,9 +23,9 @@
       <description>AI technology as hostile epistemology</description>
     </item>
     <item>
-      <title>June 26: Professor Seth Lazar (Australian National University)</title>
+      <title>June 27: Professor Seth Lazar (Australian National University)</title>
       <link>http://localhost:1313/upcoming/seth/</link>
-      <pubDate>Thu, 26 Jun 2025 10:00:10 +0100</pubDate>
+      <pubDate>Fri, 27 Jun 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/seth/</guid>
       <description>On AI Personhood Without Sentience</description>
     </item>
@@ -77,6 +70,13 @@
       <pubDate>Thu, 26 Jun 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/past_talks/rene/</guid>
       <description>Gruppenbezogene Diskriminierung (NB: This talk will be held in German)</description>
+    </item>
+    <item>
+      <title>May 23: Professor Marco Tamborini (TU Darmstadt)</title>
+      <link>http://localhost:1313/past_talks/-marco/</link>
+      <pubDate>Fri, 23 May 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/-marco/</guid>
+      <description>Bioinspired Animal-Robot Interaction</description>
     </item>
     <item>
       <title>May 9: Professor Silvia Milano (Exeter University)</title>

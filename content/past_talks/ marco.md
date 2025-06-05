@@ -4,7 +4,6 @@ date = 2025-05-23T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Bioinspired Animal-Robot Interaction"
-weight = 1
 +++
  
 
