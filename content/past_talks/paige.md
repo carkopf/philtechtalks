@@ -4,7 +4,7 @@ date = 2025-06-10T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "AI technology as hostile epistemology"
-weight = 9
+
 +++
  
 

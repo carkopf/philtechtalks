@@ -4,7 +4,7 @@ date = 2025-06-06T10:51:10+01:00
 draft = false
 hideMeta = true
 summary = "A philosophical foundation for the right to personal identity"
-weight = 7
+
 +++
  
 

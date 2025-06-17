@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/upcoming/guidoc/</loc>
-    <lastmod>2025-06-06T10:51:10+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/upcoming/paige/</loc>
-    <lastmod>2025-06-10T10:00:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/upcoming/seth/</loc>
     <lastmod>2025-06-27T10:00:10+01:00</lastmod>
   </url><url>
@@ -37,6 +31,12 @@
   </url><url>
     <loc>http://localhost:1313/past_talks/</loc>
     <lastmod>2025-06-26T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/paige/</loc>
+    <lastmod>2025-06-10T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/guidoc/</loc>
+    <lastmod>2025-06-06T10:51:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/-marco/</loc>
     <lastmod>2025-05-23T10:00:10+01:00</lastmod>
