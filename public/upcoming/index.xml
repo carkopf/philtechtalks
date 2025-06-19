@@ -50,5 +50,12 @@
       <guid>http://localhost:1313/upcoming/john/</guid>
       <description>Critique of AI Welfare</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/upcoming/laura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming/laura/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
