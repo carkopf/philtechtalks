@@ -4,7 +4,7 @@ date = 2025-10-10T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Probably something on AI and the Future of Work"
-weight = 35
+weight = 39
 +++
  
 

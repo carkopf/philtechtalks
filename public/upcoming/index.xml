@@ -6,7 +6,7 @@
     <description>Recent content in Upcoming on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Nov 2025 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>June 27: Professor Seth Lazar (Australian National University)</title>
@@ -37,6 +37,13 @@
       <description>Probably something on AI and the Future of Work</description>
     </item>
     <item>
+      <title>October 1st: Professor Shannon Vallor (Edinburgh)</title>
+      <link>http://localhost:1313/upcoming/shannon/</link>
+      <pubDate>Wed, 01 Oct 2025 14:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/shannon/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
       <title>October 17: Giuseppe Comerci (Bonn)</title>
       <link>http://localhost:1313/upcoming/giuseppe/</link>
       <pubDate>Fri, 17 Oct 2025 10:00:10 +0100</pubDate>
@@ -51,11 +58,11 @@
       <description>Critique of AI Welfare</description>
     </item>
     <item>
-      <title></title>
+      <title>November 28: Laura Weidinger (Google DeepMind &amp; Cambridge University)</title>
       <link>http://localhost:1313/upcoming/laura/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Nov 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/laura/</guid>
-      <description></description>
+      <description>Philosophical questions in AI evaluation</description>
     </item>
   </channel>
 </rss>
