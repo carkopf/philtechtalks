@@ -1,5 +1,5 @@
 +++
-title = 'July 04: Dilara Dingelman (Bonn/Jülich)'
+title = 'July 04: Dilara Diegelmann (Bonn/Jülich)'
 date = 2025-07-04T10:00:10+01:00
 draft = false
 hideMeta = true
