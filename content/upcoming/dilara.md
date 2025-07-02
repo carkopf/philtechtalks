@@ -27,6 +27,7 @@ As an example, I will use Barbara Schellhammer's research, which combines her ex
  
 
 #### About [Dilara]()
+Dilara Diegelmann is a doctoral candidate in philosophy at the University of Bonn, focusing on epistemic injustices and environmental ethics. Alongside her PhD, she works as a research associate at the Research Hub for Neuroethics (RHUNE) at Forschungszentrum Jülich. She also holds a Master's degree in Educational Sciences and has gained practical experience in pedagogy.
 
 
 
