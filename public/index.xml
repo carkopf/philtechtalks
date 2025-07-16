@@ -9,13 +9,6 @@
     <lastBuildDate>Fri, 28 Nov 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>July 04: Dilara Diegelmann (Bonn/Jülich)</title>
-      <link>http://localhost:1313/upcoming/dilara/</link>
-      <pubDate>Fri, 04 Jul 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/dilara/</guid>
-      <description>Diversifying philosophy with methods from the social sciences</description>
-    </item>
-    <item>
       <title>June 27: Professor Seth Lazar (Australian National University)</title>
       <link>http://localhost:1313/past_talks/seth/</link>
       <pubDate>Fri, 27 Jun 2025 10:00:10 +0100</pubDate>
@@ -63,6 +56,13 @@
       <pubDate>Fri, 28 Nov 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/laura/</guid>
       <description>Philosophical questions in AI evaluation</description>
+    </item>
+    <item>
+      <title>July 04: Dilara Diegelmann (Bonn/Jülich)</title>
+      <link>http://localhost:1313/past_talks/dilara/</link>
+      <pubDate>Fri, 04 Jul 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/dilara/</guid>
+      <description>Diversifying philosophy with methods from the social sciences</description>
     </item>
     <item>
       <title>March 28: René Bünnagel (Forschungszentrum Jülich)</title>

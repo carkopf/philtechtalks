@@ -4,7 +4,6 @@ date = 2025-07-04T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Diversifying philosophy with methods from the social sciences"
-weight = 1
 +++
  
 
