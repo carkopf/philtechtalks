@@ -9,8 +9,13 @@ weight = 48
 +++
  
 
+#### Time 
+Monday, November 24, 16:00–16:30  
+
+
 #### Title
 AI-driven cognitive deskilling
+
 
 #### Abstract
 TBA
