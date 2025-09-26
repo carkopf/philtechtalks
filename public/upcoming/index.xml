@@ -9,13 +9,6 @@
     <lastBuildDate>Fri, 28 Nov 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>September 15: Professor Steven Gouveia (Porto)</title>
-      <link>http://localhost:1313/upcoming/steven/</link>
-      <pubDate>Mon, 15 Sep 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/steven/</guid>
-      <description>Author-meets-critics session with Steven Gouveia on medical AI, including three commentaries. Monday, 11:00–13:00.</description>
-    </item>
-    <item>
       <title>September 26: Dr. Fabio Tollon and Dr. Enrico Galvagni (Edinburgh)</title>
       <link>http://localhost:1313/upcoming/fabio/</link>
       <pubDate>Fri, 26 Sep 2025 10:00:10 +0100</pubDate>

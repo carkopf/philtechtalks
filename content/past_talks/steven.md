@@ -4,7 +4,6 @@ date = 2025-09-15T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Author-meets-critics session with Steven Gouveia on medical AI, including three commentaries. Monday, 11:00–13:00."
-weight = 2  
 +++
  
 

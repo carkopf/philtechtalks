@@ -4,7 +4,6 @@ date = 2025-06-27T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "On AI Personhood Without Sentience"
-weight = 11
 +++
  
 
