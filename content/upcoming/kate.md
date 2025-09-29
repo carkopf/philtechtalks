@@ -4,7 +4,7 @@ date = 2025-10-10T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "What should we explain with explainable AI?"
-weight = 39
+weight = 1
 +++
  
 

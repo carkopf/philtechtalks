@@ -4,7 +4,7 @@ date = 2025-10-17T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Digital brain twins"
-weight = 40
+weight = 5
 +++
  
 

@@ -6,14 +6,14 @@
     <description>Recent content in Upcoming on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Nov 2025 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>September 26: Dr. Fabio Tollon and Dr. Enrico Galvagni (Edinburgh)</title>
-      <link>http://localhost:1313/upcoming/fabio/</link>
-      <pubDate>Fri, 26 Sep 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/fabio/</guid>
-      <description>Conceptual engineering and responsibility</description>
+      <title>December 5: Dr. Katrin Frisch (German Ombuds Board for Scientific Integrity)</title>
+      <link>http://localhost:1313/upcoming/katrin/</link>
+      <pubDate>Fri, 05 Dec 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/katrin/</guid>
+      <description>Overview of policy ideas for using LLMs in academic research</description>
     </item>
     <item>
       <title>October 10: Professor Kate Vredenburgh (London School of Economics)</title>

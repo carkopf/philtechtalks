@@ -4,7 +4,7 @@ date = 2025-11-28T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Philosophical questions in AI evaluation"
-weight = 50
+weight = 25
 
 +++
  
