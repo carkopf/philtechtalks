@@ -1,6 +1,6 @@
 +++
-title = 'October 17: Giuseppe Comerci (Bonn)'
-date = 2025-10-17T10:00:10+01:00
+title = 'October 31: Giuseppe Comerci (Bonn)'
+date = 2025-10-31T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Digital brain twins"

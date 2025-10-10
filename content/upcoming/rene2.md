@@ -1,10 +1,10 @@
 +++
 title = 'October 24: René Bünnagel (Forschungszentrum Jülich)'
-date = 2025-06-26T10:00:10+01:00
+date = 2025-10-24T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Retribution gaps beyond AI"
-weight = 7
+weight = 1
 +++
  
 
