@@ -9,13 +9,6 @@
     <lastBuildDate>Fri, 05 Dec 2025 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>December 5: Dr. Katrin Frisch (German Ombuds Board for Scientific Integrity)</title>
-      <link>http://localhost:1313/upcoming/katrin/</link>
-      <pubDate>Fri, 05 Dec 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/katrin/</guid>
-      <description>Overview of policy ideas for using LLMs in academic research</description>
-    </item>
-    <item>
       <title>October 10: Professor Kate Vredenburgh (London School of Economics)</title>
       <link>http://localhost:1313/upcoming/kate/</link>
       <pubDate>Fri, 10 Oct 2025 10:00:10 +0100</pubDate>
@@ -30,6 +23,13 @@
       <description>Digital brain twins</description>
     </item>
     <item>
+      <title>October 24: René Bünnagel (Forschungszentrum Jülich)</title>
+      <link>http://localhost:1313/upcoming/rene2/</link>
+      <pubDate>Thu, 26 Jun 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/rene2/</guid>
+      <description>Retribution gaps beyond AI</description>
+    </item>
+    <item>
       <title>November 7: Dr. John Dorsch (Czech Academy of the Sciences)</title>
       <link>http://localhost:1313/upcoming/john/</link>
       <pubDate>Fri, 07 Nov 2025 10:00:10 +0100</pubDate>
@@ -42,6 +42,13 @@
       <pubDate>Mon, 24 Nov 2025 16:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/shannon/</guid>
       <description>AI-driven cognitive deskilling. NB: irregular schedule! Monday 16:00 CET</description>
+    </item>
+    <item>
+      <title>December 5: Dr. Katrin Frisch (German Ombuds Board for Scientific Integrity)</title>
+      <link>http://localhost:1313/upcoming/katrin/</link>
+      <pubDate>Fri, 05 Dec 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/katrin/</guid>
+      <description>Overview of policy ideas for using LLMs in academic research</description>
     </item>
     <item>
       <title>November 28: Laura Weidinger (Google DeepMind &amp; Cambridge University)</title>
