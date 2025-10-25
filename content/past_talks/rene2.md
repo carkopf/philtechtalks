@@ -4,7 +4,6 @@ date = 2025-10-24T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Retribution gaps beyond AI"
-weight = 1
 +++
  
 
