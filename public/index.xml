@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>October 31: Giuseppe Comerci (Bonn)</title>
-      <link>http://localhost:1313/upcoming/giuseppe/</link>
+      <link>http://localhost:1313/past_talks/giuseppe/</link>
       <pubDate>Fri, 31 Oct 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/giuseppe/</guid>
+      <guid>http://localhost:1313/past_talks/giuseppe/</guid>
       <description>Digital brain twins</description>
     </item>
     <item>

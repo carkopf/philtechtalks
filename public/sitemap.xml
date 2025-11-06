@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/upcoming/giuseppe/</loc>
+    <loc>http://localhost:1313/past_talks/giuseppe/</loc>
     <lastmod>2025-10-31T10:00:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/upcoming/john/</loc>
@@ -23,10 +23,10 @@
     <loc>http://localhost:1313/upcoming/</loc>
     <lastmod>2025-12-05T10:00:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/past_talks/rene2/</loc>
-    <lastmod>2025-10-24T10:00:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/past_talks/</loc>
+    <lastmod>2025-10-31T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/rene2/</loc>
     <lastmod>2025-10-24T10:00:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/kate/</loc>
