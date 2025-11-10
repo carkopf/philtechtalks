@@ -4,7 +4,7 @@ date = 2025-11-24T16:00:10+01:00
 draft = false
 hideMeta = true
 summary = "AI-driven cognitive deskilling. NB: irregular schedule! Monday 16:00 CET"
-weight = 15
+weight = 5
 
 +++
  

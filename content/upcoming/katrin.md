@@ -4,7 +4,7 @@ date = 2025-12-05T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Overview of policy ideas for using LLMs in academic research"
-weight = 25
+weight = 7
 +++
  
 

@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/past_talks/giuseppe/</loc>
-    <lastmod>2025-10-31T10:00:10+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/upcoming/john/</loc>
-    <lastmod>2025-11-07T10:00:10+01:00</lastmod>
+    <loc>http://localhost:1313/upcoming/marla/</loc>
+    <lastmod>2025-11-28T10:00:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/upcoming/shannon/</loc>
     <lastmod>2025-11-24T16:00:10+01:00</lastmod>
@@ -23,7 +20,13 @@
     <loc>http://localhost:1313/upcoming/</loc>
     <lastmod>2025-12-05T10:00:10+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/past_talks/john/</loc>
+    <lastmod>2025-11-07T10:00:10+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/past_talks/</loc>
+    <lastmod>2025-11-07T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/giuseppe/</loc>
     <lastmod>2025-10-31T10:00:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/rene2/</loc>
@@ -139,6 +142,8 @@
   </url><url>
     <loc>http://localhost:1313/past_talks/janina/</loc>
     <lastmod>2023-05-26T00:00:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/upcoming/arianna/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

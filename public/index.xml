@@ -6,21 +6,14 @@
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Dec 2025 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>October 31: Giuseppe Comerci (Bonn)</title>
-      <link>http://localhost:1313/past_talks/giuseppe/</link>
-      <pubDate>Fri, 31 Oct 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/past_talks/giuseppe/</guid>
-      <description>Digital brain twins</description>
-    </item>
-    <item>
-      <title>November 7: Dr. John Dorsch (Czech Academy of the Sciences)</title>
-      <link>http://localhost:1313/upcoming/john/</link>
-      <pubDate>Fri, 07 Nov 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/john/</guid>
-      <description>Critique of AI Welfare</description>
+      <title>November 14: Dr. Maria Marloth (University of Cologne)</title>
+      <link>http://localhost:1313/upcoming/marla/</link>
+      <pubDate>Fri, 14 Nov 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/marla/</guid>
+      <description>Extended Reality (XR) in Psychiatry</description>
     </item>
     <item>
       <title>November 24: Professor Shannon Vallor (Edinburgh)</title>
@@ -30,18 +23,46 @@
       <description>AI-driven cognitive deskilling. NB: irregular schedule! Monday 16:00 CET</description>
     </item>
     <item>
-      <title>November 28: Laura Weidinger (Google DeepMind &amp; Cambridge University)</title>
-      <link>http://localhost:1313/upcoming/laura/</link>
-      <pubDate>Fri, 28 Nov 2025 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/laura/</guid>
-      <description>Philosophical questions in AI evaluation</description>
-    </item>
-    <item>
       <title>December 5: Dr. Katrin Frisch (German Ombuds Board for Scientific Integrity)</title>
       <link>http://localhost:1313/upcoming/katrin/</link>
       <pubDate>Fri, 05 Dec 2025 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/katrin/</guid>
       <description>Overview of policy ideas for using LLMs in academic research</description>
+    </item>
+    <item>
+      <title>December 12: Dr. Christiane Turza (Regensburg)</title>
+      <link>http://localhost:1313/upcoming/christiane/</link>
+      <pubDate>Fri, 05 Dec 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/christiane/</guid>
+      <description>Manipulation and Chatbots</description>
+    </item>
+    <item>
+      <title>January 09: Professor Emily Sullivan (Edinburgh)</title>
+      <link>http://localhost:1313/upcoming/emily/</link>
+      <pubDate>Fri, 09 Jan 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/emily/</guid>
+      <description>Something on ML ethics</description>
+    </item>
+    <item>
+      <title>January 23: Dr. Arianna Manzini (Google DeepMind)</title>
+      <link>http://localhost:1313/upcoming/arianna/</link>
+      <pubDate>Fri, 23 Jan 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/arianna/</guid>
+      <description>Something on ML ethics</description>
+    </item>
+    <item>
+      <title>November 7: Dr. John Dorsch (Czech Academy of the Sciences)</title>
+      <link>http://localhost:1313/past_talks/john/</link>
+      <pubDate>Fri, 07 Nov 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/john/</guid>
+      <description>Critique of AI Welfare</description>
+    </item>
+    <item>
+      <title>October 31: Giuseppe Comerci (Bonn)</title>
+      <link>http://localhost:1313/past_talks/giuseppe/</link>
+      <pubDate>Fri, 31 Oct 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/giuseppe/</guid>
+      <description>Digital brain twins</description>
     </item>
     <item>
       <title>October 24: René Bünnagel (Forschungszentrum Jülich)</title>
