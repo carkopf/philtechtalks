@@ -6,8 +6,22 @@
     <description>Recent content in Past_talks on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Nov 2025 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 16:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/past_talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November 24: Professor Shannon Vallor (Edinburgh)</title>
+      <link>http://localhost:1313/past_talks/shannon/</link>
+      <pubDate>Mon, 24 Nov 2025 16:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/shannon/</guid>
+      <description>AI-driven cognitive deskilling. NB: irregular schedule! Monday 16:00 CET</description>
+    </item>
+    <item>
+      <title>November 14: Dr. Maria Marloth (University of Cologne)</title>
+      <link>http://localhost:1313/past_talks/maria/</link>
+      <pubDate>Fri, 14 Nov 2025 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/maria/</guid>
+      <description>Extended Reality (XR) in Psychiatry</description>
+    </item>
     <item>
       <title>November 7: Dr. John Dorsch (Czech Academy of the Sciences)</title>
       <link>http://localhost:1313/past_talks/john/</link>

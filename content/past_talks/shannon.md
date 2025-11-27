@@ -14,11 +14,11 @@ Monday, November 24, 16:00–16:30
 
 
 #### Title
-AI-driven cognitive deskilling
-
+The AI Mirror: Through the Looking Glass
 
 #### Abstract
-TBA
+This talk will explore the increasingly evident potential of LLM-based chatbots to damage human cognitive and psychological integrity, resulting in harms ranging from cognitive deskilling to delusions, psychological breakdowns and suicides. The talk will examine the LLM mechanisms driving these phenomena and their likely causes, as well as the insufficiency of the technical means AI companies have proposed to address them. I will argue that stronger medicine is needed, in order to ensure that today’s AI tools do not result in our cognitive and psychological dispossession.
+
 
  
 
