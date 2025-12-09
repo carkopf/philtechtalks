@@ -4,7 +4,6 @@ date = 2025-12-05T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Research Integrity in the Age of generative AI"
-weight = 1
 +++
  
 
