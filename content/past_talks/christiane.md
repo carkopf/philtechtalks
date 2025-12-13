@@ -4,7 +4,6 @@ date = 2025-12-05T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Are we being manipulated by chatbots? (NB: talk will be held in German)"
-weight = 1
 +++
  
 
