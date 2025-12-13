@@ -5,27 +5,22 @@ theme = "PaperMod"
 pluralizeListTitles = false
 buildFuture = true
 
+# Add this outputs section
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
-  # Add the mainSections parameter to specify which section(s) to display on the homepage
   mainSections = ["upcoming"]
 
-[[menu.main]]
-identifier = "pasttalks"
-name = "Past talks"
-url = "/past_talks/"
-weight = 20
-
-[[menu.main]]
-identifier = "contact"
-name = "Join in"
-url = "/contact/"
-weight = 40
-
-[[menu.main]]
-identifier = "workshop"
-name = "Workshop"
-url = "/workshop/"
-weight = 30
+# Add search customization (optional)
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
 
 [params.homeInfoParams]
 Title = "Philosophy of Technology in Jülich"
@@ -34,3 +29,27 @@ Welcome to the Jülich Speaker Series in the Philosophy of Technology. We aim to
 
 
 """
+
+[[menu.main]]
+identifier = "pasttalks"
+name = "Past talks"
+url = "/past_talks/"
+weight = 20
+
+[[menu.main]]
+identifier = "workshop"
+name = "Workshop"
+url = "/workshop/"
+weight = 30
+
+[[menu.main]]
+identifier = "contact"
+name = "Join in"
+url = "/contact/"
+weight = 40
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 50
