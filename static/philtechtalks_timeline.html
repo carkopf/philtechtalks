@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phil.Tech.Talks Timeline</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #fafafa;
+        }
+        
+        #container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        #timeline {
+            margin-top: 40px;
+        }
+        
+        .tooltip {
+            position: absolute;
+            padding: 12px 16px;
+            background: rgba(0, 0, 0, 0.9);
+            color: white;
+            border-radius: 6px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+            max-width: 350px;
+            font-size: 14px;
+            line-height: 1.5;
+            z-index: 1000;
+        }
+        
+        .tooltip strong {
+            display: block;
+            margin-bottom: 6px;
+            font-size: 15px;
+        }
+        
+        .tooltip .speaker {
+            display: block;
+            margin-bottom: 4px;
+            color: #ccc;
+        }
+        
+        .tooltip .institution {
+            display: block;
+            font-style: italic;
+            color: #aaa;
+            font-size: 13px;
+        }
+        
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f8f8f8;
+            border-radius: 6px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+        }
+        
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+        }
+        
+        .stats {
+            display: flex;
+            gap: 40px;
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f8f8;
+            border-radius: 6px;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 4px;
+        }
+        
+        circle {
+            cursor: pointer;
+            transition: r 0.2s;
+        }
+        
+        circle:hover {
+            r: 10;
+        }
+        
+        .axis path,
+        .axis line {
+            stroke: #ddd;
+        }
+        
+        .axis text {
+            fill: #666;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Phil.Tech.Talks: A Visual History</h1>
+        <div class="subtitle">43 talks from May 2022 to December 2024 • Color indicates topic area</div>
+        
+        <div class="legend" id="legend"></div>
+        
+        <div id="timeline"></div>
+        
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">43</div>
+                <div class="stat-label">Total Talks</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">42</div>
+                <div class="stat-label">Speakers</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">30+</div>
+                <div class="stat-label">Institutions</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">2.5</div>
+                <div class="stat-label">Years Running</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const talks = [
+  {
+    "date": "2024-12-12",
+    "speaker": "Dr. Christiane Turza",
+    "institution": "Regensburg",
+    "title": "Are we being manipulated by chatbots?",
+    "language": "German"
+  },
+  {
+    "date": "2024-12-05",
+    "speaker": "Dr. Katrin Frisch",
+    "institution": "German Ombuds Board for Scientific Integrity",
+    "title": "Research Integrity in the Age of generative AI"
+  },
+  {
+    "date": "2024-11-24",
+    "speaker": "Professor Shannon Vallor",
+    "institution": "Edinburgh",
+    "title": "AI-driven cognitive deskilling"
+  },
+  {
+    "date": "2024-11-14",
+    "speaker": "Dr. Maria Marloth",
+    "institution": "University of Cologne",
+    "title": "Extended Reality (XR) in Psychiatry"
+  },
+  {
+    "date": "2024-11-07",
+    "speaker": "Dr. John Dorsch",
+    "institution": "Czech Academy of the Sciences",
+    "title": "Critique of AI Welfare"
+  },
+  {
+    "date": "2024-10-31",
+    "speaker": "Giuseppe Comerci",
+    "institution": "Bonn",
+    "title": "Digital brain twins"
+  },
+  {
+    "date": "2024-10-24",
+    "speaker": "René Bünnagel",
+    "institution": "Forschungszentrum Jülich",
+    "title": "Retribution gaps beyond AI"
+  },
+  {
+    "date": "2024-10-10",
+    "speaker": "Professor Kate Vredenburgh",
+    "institution": "London School of Economics",
+    "title": "What should we explain with explainable AI?"
+  },
+  {
+    "date": "2024-09-26",
+    "speaker": "Dr. Fabio Tollon and Dr. Enrico Galvagni",
+    "institution": "Edinburgh",
+    "title": "Conceptual engineering and responsibility"
+  },
+  {
+    "date": "2024-09-15",
+    "speaker": "Professor Steven Gouveia",
+    "institution": "Porto",
+    "title": "Author-meets-critics session with Steven Gouveia on medical AI"
+  },
+  {
+    "date": "2024-07-04",
+    "speaker": "Dilara Diegelmann",
+    "institution": "Bonn/Jülich",
+    "title": "Diversifying philosophy with methods from the social sciences"
+  },
+  {
+    "date": "2024-06-27",
+    "speaker": "Professor Seth Lazar",
+    "institution": "Australian National University",
+    "title": "On AI Personhood Without Sentience"
+  },
+  {
+    "date": "2024-06-13",
+    "speaker": "Dr. Paige Benton",
+    "institution": "University of Johannesburg",
+    "title": "AI technology as hostile epistemology"
+  },
+  {
+    "date": "2024-06-06",
+    "speaker": "Guido Cassinadri",
+    "institution": "Sant'Anna",
+    "title": "A philosophical foundation for the right to personal identity"
+  },
+  {
+    "date": "2024-05-23",
+    "speaker": "Professor Marco Tamborini",
+    "institution": "TU Darmstadt",
+    "title": "Bioinspired Animal-Robot Interaction"
+  },
+  {
+    "date": "2024-05-09",
+    "speaker": "Professor Silvia Milano",
+    "institution": "Exeter University",
+    "title": "Algorithmic recommendations: What's the problem?"
+  },
+  {
+    "date": "2024-04-11",
+    "speaker": "Professor Michael Klenk",
+    "institution": "Delft University",
+    "title": "Reasoning dependency"
+  },
+  {
+    "date": "2024-03-28",
+    "speaker": "René Bünnagel",
+    "institution": "Forschungszentrum Jülich",
+    "title": "Gruppenbezogene Diskriminierung",
+    "language": "German"
+  },
+  {
+    "date": "2024-03-21",
+    "speaker": "Professor Charlotte Unruh",
+    "institution": "University of Southampton",
+    "title": "Automation and meaningful work"
+  },
+  {
+    "date": "2024-03-07",
+    "speaker": "Dr. Johannes Lierfeld",
+    "institution": "Munich",
+    "title": "A physical approach to qualia"
+  },
+  {
+    "date": "2024-02-14",
+    "speaker": "Dr. Anna Strasser",
+    "institution": "Denk Werkstatt Berlin",
+    "title": "Chapter from forthcoming book 'Inbetweenism'"
+  },
+  {
+    "date": "2024-02-07",
+    "speaker": "Prof. Carina Prunkl",
+    "institution": "Utrecht/Oxford",
+    "title": "Are algorithms more objective than humans?"
+  },
+  {
+    "date": "2024-01-31",
+    "speaker": "Dr. Charlotte Gauvry",
+    "institution": "Bonn",
+    "title": "Valenced sentietism"
+  },
+  {
+    "date": "2024-01-24",
+    "speaker": "Prof. Guido Löhr",
+    "institution": "Amsterdam",
+    "title": "Can AI be a scientist?: A Conceptual Engineering Approach"
+  },
+  {
+    "date": "2023-11-29",
+    "speaker": "Dr. Muriel Leuenberger",
+    "institution": "Zurich",
+    "title": "The value of authenticity for meaning in life and implications for emerging technologies"
+  },
+  {
+    "date": "2023-11-22",
+    "speaker": "Prof. Henry Shevlin",
+    "institution": "Cambridge",
+    "title": "Consciousness, Machines, and Moral Status"
+  },
+  {
+    "date": "2023-11-08",
+    "speaker": "Jülich-Eindhoven Workshop",
+    "institution": "Jülich/Eindhoven",
+    "title": "Philosophy of Deep Learning with Carlos Zednik"
+  },
+  {
+    "date": "2023-10-25",
+    "speaker": "Arzu Formanek",
+    "institution": "Vienna",
+    "title": "Robotics affordance mixtures and early robot ethics"
+  },
+  {
+    "date": "2023-10-18",
+    "speaker": "Edmund Terem Ugar",
+    "institution": "Johannesburg",
+    "title": "Promoting Responsible Use of AI in African Healthcare"
+  },
+  {
+    "date": "2023-07-12",
+    "speaker": "Prof. Avigail Ferdman",
+    "institution": "Technion",
+    "title": "AI, human-capacity habituation, and the deskilling problem"
+  },
+  {
+    "date": "2023-07-05",
+    "speaker": "Dr. Sarah Diner",
+    "institution": "Bonn",
+    "title": "The ethics of cerebral organoid research: Searching for markers of consciousness"
+  },
+  {
+    "date": "2023-06-21",
+    "speaker": "Prof. Raphaël Millière",
+    "institution": "Macquarie",
+    "title": "The Alignment Problem in Context"
+  },
+  {
+    "date": "2023-05-17",
+    "speaker": "Prof. Emma Ruttkamp-Bloem",
+    "institution": "Pretoria",
+    "title": "What gives the Ethics of AI its Bad Name?"
+  },
+  {
+    "date": "2023-04-19",
+    "speaker": "Prof. Sven Nyholm",
+    "institution": "LMU",
+    "title": "Russell and Floridi on Artificial Intelligence and Agency"
+  },
+  {
+    "date": "2023-04-12",
+    "speaker": "Prof. Eva Schmidt",
+    "institution": "Dortmund",
+    "title": "The Reasons of AI Systems"
+  },
+  {
+    "date": "2023-03-15",
+    "speaker": "Dr. Julia Mönig",
+    "institution": "Bonn",
+    "title": "The human behind human-centered AI"
+  },
+  {
+    "date": "2023-03-01",
+    "speaker": "Dr. Sam Bennett",
+    "institution": "U. Georgia",
+    "title": "The morality of smartphone use"
+  },
+  {
+    "date": "2023-01-19",
+    "speaker": "Prof. Vincent Müller",
+    "institution": "Erlangen",
+    "title": "What should AI ethics try to achieve?"
+  },
+  {
+    "date": "2022-11-17",
+    "speaker": "Prof. Tobias Schlicht",
+    "institution": "Bochum",
+    "title": "What is social interaction?"
+  },
+  {
+    "date": "2022-10-27",
+    "speaker": "Prof. Sebastian Weydner-Volkman",
+    "institution": "Bochum",
+    "title": "Bewertung von KI-Feedback Systeme in der Lehre",
+    "language": "German"
+  },
+  {
+    "date": "2022-10-20",
+    "speaker": "Dr. Martin Hähnel",
+    "institution": "Bremen",
+    "title": "Dual-use and artificial intelligence"
+  },
+  {
+    "date": "2022-06-02",
+    "speaker": "Prof. Peter Königs",
+    "institution": "Dortmund",
+    "title": "No well-being for robots (and hence no robot rights)"
+  },
+  {
+    "date": "2022-05-26",
+    "speaker": "Prof. Janina Loh",
+    "institution": "Bonn-Rhein-Sieg",
+    "title": "Digitale Transformation im Gesundheitswesen",
+    "language": "German"
+  }
+];
+
+        // Topic classification function
+        function classifyTopic(title) {
+            const lower = title.toLowerCase();
+            
+            if (lower.includes('conscious') || lower.includes('sentience') || lower.includes('qualia') || 
+                lower.includes('mental') || lower.includes('welfare') || lower.includes('personhood')) {
+                return 'Consciousness & Mind';
+            }
+            if (lower.includes('health') || lower.includes('medical') || lower.includes('psychiatry') || 
+                lower.includes('organoid') || lower.includes('brain')) {
+                return 'Medical/Health AI';
+            }
+            if (lower.includes('work') || lower.includes('automation') || lower.includes('deskilling') || 
+                lower.includes('labor')) {
+                return 'Work & Automation';
+            }
+            if (lower.includes('explain') || lower.includes('transparency') || lower.includes('integrity') || 
+                lower.includes('epistemology') || lower.includes('trust')) {
+                return 'Explainability & Trust';
+            }
+            if (lower.includes('responsibility') || lower.includes('agency') || lower.includes('reasoning') ||
+                lower.includes('retribution')) {
+                return 'Responsibility & Agency';
+            }
+            if (lower.includes('robot') || lower.includes('algorithm') || lower.includes('deep learning') || 
+                lower.includes('feedback') || lower.includes('dual-use')) {
+                return 'AI Systems & Tech';
+            }
+            if (lower.includes('social') || lower.includes('smartphone') || lower.includes('interaction') ||
+                lower.includes('discrimin') || lower.includes('identity')) {
+                return 'Social & Political';
+            }
+            if (lower.includes('method') || lower.includes('conceptual') || lower.includes('philosoph') ||
+                lower.includes('diversif')) {
+                return 'Philosophy & Methods';
+            }
+            return 'AI Ethics & Values';
+        }
+
+        // Add topics to talks
+        talks.forEach(talk => {
+            talk.topic = classifyTopic(talk.title);
+            talk.dateObj = new Date(talk.date);
+        });
+
+        // Color scheme
+        const topicColors = {
+            'AI Ethics & Values': '#3b82f6',
+            'Consciousness & Mind': '#8b5cf6',
+            'Responsibility & Agency': '#ef4444',
+            'Medical/Health AI': '#10b981',
+            'Explainability & Trust': '#f59e0b',
+            'Work & Automation': '#ec4899',
+            'AI Systems & Tech': '#06b6d4',
+            'Social & Political': '#84cc16',
+            'Philosophy & Methods': '#6366f1'
+        };
+
+        // Create legend
+        const legend = d3.select('#legend');
+        Object.entries(topicColors).forEach(([topic, color]) => {
+            const item = legend.append('div').attr('class', 'legend-item');
+            item.append('div').attr('class', 'legend-color').style('background', color);
+            item.append('span').text(topic);
+        });
+
+        // Dimensions
+        const margin = {top: 20, right: 40, bottom: 60, left: 40};
+        const width = 1320 - margin.left - margin.right;
+        const height = 400 - margin.top - margin.bottom;
+
+        // Create SVG
+        const svg = d3.select('#timeline')
+            .append('svg')
+            .attr('width', width + margin.left + margin.right)
+            .attr('height', height + margin.top + margin.bottom)
+            .append('g')
+            .attr('transform', `translate(${margin.left},${margin.top})`);
+
+        // Create tooltip
+        const tooltip = d3.select('body')
+            .append('div')
+            .attr('class', 'tooltip');
+
+        // Scales
+        const xScale = d3.scaleTime()
+            .domain(d3.extent(talks, d => d.dateObj))
+            .range([0, width]);
+
+        // Sort talks by date
+        talks.sort((a, b) => a.dateObj - b.dateObj);
+
+        // Assign y positions to avoid overlap using a simple packing algorithm
+        const minGap = 25; // Minimum vertical distance between overlapping nodes
+        const positions = [];
+        
+        talks.forEach((talk, i) => {
+            const x = xScale(talk.dateObj);
+            let y = height / 2; // Start in the middle
+            let attempts = 0;
+            const maxAttempts = 100;
+            
+            // Try to find a non-overlapping position
+            while (attempts < maxAttempts) {
+                let overlaps = false;
+                for (let j = 0; j < i; j++) {
+                    const dx = x - positions[j].x;
+                    const dy = y - positions[j].y;
+                    const distance = Math.sqrt(dx * dx + dy * dy);
+                    
+                    // If nodes are close horizontally, enforce vertical separation
+                    if (Math.abs(dx) < 50 && Math.abs(dy) < minGap) {
+                        overlaps = true;
+                        break;
+                    }
+                }
+                
+                if (!overlaps) break;
+                
+                // Try alternating above and below center
+                y = height / 2 + (attempts % 2 === 0 ? 1 : -1) * Math.floor(attempts / 2) * minGap;
+                attempts++;
+            }
+            
+            // Clamp to bounds
+            y = Math.max(30, Math.min(height - 30, y));
+            positions.push({ x, y });
+            talk.y = y;
+        });
+
+        // Draw axis
+        const xAxis = d3.axisBottom(xScale)
+            .ticks(d3.timeMonth.every(3))
+            .tickFormat(d3.timeFormat('%b %Y'));
+
+        svg.append('g')
+            .attr('class', 'axis')
+            .attr('transform', `translate(0,${height})`)
+            .call(xAxis)
+            .selectAll('text')
+            .attr('transform', 'rotate(-45)')
+            .style('text-anchor', 'end');
+
+        // Draw connecting lines
+        svg.selectAll('.connect-line')
+            .data(talks.slice(0, -1))
+            .enter()
+            .append('line')
+            .attr('class', 'connect-line')
+            .attr('x1', d => xScale(d.dateObj))
+            .attr('y1', d => d.y)
+            .attr('x2', (d, i) => xScale(talks[i + 1].dateObj))
+            .attr('y2', (d, i) => talks[i + 1].y)
+            .attr('stroke', '#e0e0e0')
+            .attr('stroke-width', 1)
+            .attr('opacity', 0.3);
+
+        // Draw nodes
+        svg.selectAll('.talk-node')
+            .data(talks)
+            .enter()
+            .append('circle')
+            .attr('class', 'talk-node')
+            .attr('cx', d => xScale(d.dateObj))
+            .attr('cy', d => d.y)
+            .attr('r', 7)
+            .attr('fill', d => topicColors[d.topic])
+            .attr('stroke', 'white')
+            .attr('stroke-width', 2)
+            .on('mouseover', function(event, d) {
+                d3.select(this).attr('r', 10);
+                tooltip
+                    .style('opacity', 1)
+                    .html(`
+                        <strong>${d.title}</strong>
+                        <span class="speaker">${d.speaker}</span>
+                        <span class="institution">${d.institution}</span>
+                        <div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid #555;">
+                            ${d3.timeFormat('%B %d, %Y')(d.dateObj)} • ${d.topic}
+                        </div>
+                    `)
+                    .style('left', (event.pageX + 15) + 'px')
+                    .style('top', (event.pageY - 15) + 'px');
+            })
+            .on('mouseout', function() {
+                d3.select(this).attr('r', 7);
+                tooltip.style('opacity', 0);
+            });
+    </script>
+</body>
+</html>
