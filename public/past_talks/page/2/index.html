@@ -68,7 +68,6 @@
     } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
-
 </script>
 
 <header class="header">
@@ -122,9 +121,40 @@
                 </a>
             </li>
         </ul>
+        
+        <div class="juelich-logo">
+            <a href="https://www.fz-juelich.de/en" target="_blank" title="Forschungszentrum Jülich">
+                <img src="/juelich-logo.svg" alt="Forschungszentrum Jülich" height="40">
+            </a>
+        </div>
     </nav>
 </header>
-<main class="main"> 
+
+<style>
+.juelich-logo {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    padding-left: 20px;
+}
+
+.juelich-logo img {
+    height: 40px;
+    width: auto;
+    opacity: 0.9;
+    transition: opacity 0.2s;
+}
+
+.juelich-logo img:hover {
+    opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .juelich-logo {
+        display: none;
+    }
+}
+</style><main class="main"> 
 <header class="page-header">
   <h1>
     Past talks
