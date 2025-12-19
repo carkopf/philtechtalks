@@ -144,7 +144,7 @@
         <!-- Jülich Logo -->
         <div class="juelich-logo">
             <a href="https://www.fz-juelich.de/en" target="_blank" title="Forschungszentrum Jülich">
-                <img src="/juelich-logo.svg" alt="Forschungszentrum Jülich" height="80">
+                <img src="/juelich-logo.svg" alt="Forschungszentrum Jülich" height="140">
             </a>
         </div>
     </nav>
@@ -159,7 +159,7 @@
 }
 
 .juelich-logo img {
-    height: 80px;
+    height: 140px;
     width: auto;
     opacity: 0.9;
     transition: opacity 0.2s;
@@ -169,6 +169,9 @@
     opacity: 1;
 }
 
-
+@media screen and (max-width: 768px) {
+    .juelich-logo {
+        display: none;
+    }
 }
 </style>

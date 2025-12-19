@@ -4,7 +4,7 @@ date = 2026-01-09T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Something on ML ethics"
-weight = 15
+weight = 1
 +++
  
 
