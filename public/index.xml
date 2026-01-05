@@ -13,6 +13,13 @@
       <link>http://localhost:1313/upcoming/emily/</link>
       <pubDate>Fri, 09 Jan 2026 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/emily/</guid>
+      <description>Model-subjects and values in modeling</description>
+    </item>
+    <item>
+      <title>January 23: Dr. Arianna Manzini (Google DeepMind)</title>
+      <link>http://localhost:1313/upcoming/arianna/</link>
+      <pubDate>Fri, 23 Jan 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/arianna/</guid>
       <description>Something on ML ethics</description>
     </item>
     <item>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 24 Feb 2026 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/matthieu/</guid>
       <description>Artificial cognition</description>
-    </item>
-    <item>
-      <title>January 23: Dr. Arianna Manzini (Google DeepMind)</title>
-      <link>http://localhost:1313/upcoming/arianna/</link>
-      <pubDate>Fri, 23 Jan 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/arianna/</guid>
-      <description>Something on ML ethics</description>
     </item>
     <item>
       <title>December 12: Dr. Christiane Turza (Regensburg)</title>

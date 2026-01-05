@@ -3,16 +3,16 @@ title = 'January 09: Professor Emily Sullivan (Edinburgh)'
 date = 2026-01-09T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "Something on ML ethics"
+summary = "Model-subjects and values in modeling"
 weight = 1
 +++
  
 
 #### Title
-TBD
+Model-subjects and values in modelling
 
 #### Abstract
-TBD  
+I will discuss how extant views of values in model evaluation in the philosophy of science are ill-equipped to incorporate the values and interests of those who are impacted by models (i.e., model subjects). I suggest an alternative view and highlight open questions that arise from it.
 
  
 
