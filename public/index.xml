@@ -6,7 +6,7 @@
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>January 09: Professor Emily Sullivan (Edinburgh)</title>
@@ -28,6 +28,13 @@
       <pubDate>Tue, 24 Feb 2026 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/matthieu/</guid>
       <description>Artificial cognition</description>
+    </item>
+    <item>
+      <title>March 10: Max Hellrigel-Holderbaum (Erlangen)</title>
+      <link>http://localhost:1313/upcoming/max/</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/max/</guid>
+      <description>AI Safety Assessment</description>
     </item>
     <item>
       <title>December 12: Dr. Christiane Turza (Regensburg)</title>
