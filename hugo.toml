@@ -12,6 +12,9 @@ buildFuture = true
 [params]
   mainSections = ["upcoming"]
 
+[params.analytics.google]
+  SiteVerificationTag = "G-ENE3M094RN"
+
 # Add search customization (optional)
 [params.fuseOpts]
   isCaseSensitive = false
