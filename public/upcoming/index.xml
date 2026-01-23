@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Upcoming on Phil.Tech.Talks</title>
-    <link>http://localhost:1313/upcoming/</link>
+    <link>http://localhost:54178/upcoming/</link>
     <description>Recent content in Upcoming on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Mar 2026 10:00:10 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54178/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>January 09: Professor Emily Sullivan (Edinburgh)</title>
-      <link>http://localhost:1313/upcoming/emily/</link>
-      <pubDate>Fri, 09 Jan 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/emily/</guid>
-      <description>Model-subjects and values in modeling</description>
+      <title>January 23: Dr. Charles Rathkopf (Jülich)</title>
+      <link>http://localhost:54178/upcoming/charles/</link>
+      <pubDate>Fri, 23 Jan 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:54178/upcoming/charles/</guid>
+      <description>Is AI Deception Real?</description>
     </item>
     <item>
       <title>January 23: Dr. Arianna Manzini (Google DeepMind)</title>
-      <link>http://localhost:1313/upcoming/arianna/</link>
+      <link>http://localhost:54178/upcoming/arianna/</link>
       <pubDate>Fri, 23 Jan 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/arianna/</guid>
+      <guid>http://localhost:54178/upcoming/arianna/</guid>
       <description>Something on ML ethics</description>
     </item>
     <item>
-      <title>March 10: Max Hellrigel-Holderbaum</title>
-      <link>http://localhost:1313/upcoming/max/</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/max/</guid>
-      <description>AI Safety Assessment</description>
+      <title>February 24: Professor Matthieu Queloz (Bern)</title>
+      <link>http://localhost:54178/upcoming/matthieu/</link>
+      <pubDate>Tue, 24 Feb 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:54178/upcoming/matthieu/</guid>
+      <description>Artificial cognition</description>
     </item>
     <item>
-      <title>February 24: Professor Matthieu Queloz (Bern)</title>
-      <link>http://localhost:1313/upcoming/matthieu/</link>
-      <pubDate>Tue, 24 Feb 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/matthieu/</guid>
-      <description>Artificial cognition</description>
+      <title>March 10: Max Hellrigel-Holderbaum (Erlangen)</title>
+      <link>http://localhost:54178/upcoming/max/</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:54178/upcoming/max/</guid>
+      <description>AI Safety Assessment</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,6 @@ date = 2026-01-09T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Model-subjects and values in modeling"
-weight = 1
 +++
  
 
