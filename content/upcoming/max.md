@@ -4,7 +4,7 @@ date = 2026-03-10T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "AI Safety Assessment"
-weight = 25
+weight = 20
 +++
  
 

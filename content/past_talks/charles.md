@@ -4,7 +4,6 @@ date = 2026-01-23T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Is AI Deception Real?"
-weight = 1
 +++
  
 
@@ -19,7 +18,7 @@ By way of response, I first develop an account of mental content attribution, ac
  
 
 #### About [Charles](https://www.charlesrathkopf.net)
-Forthcoming
+Charles Rathkopf is a philosopher at the Jülich Research Center and the University of Bonn, working at the intersection of AI, neuroscience, and philosophy of mind. His research focuses on AI cognition, mechanistic interpretability, and deception in artificial intelligence systems.
 
 
 
