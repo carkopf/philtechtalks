@@ -53,6 +53,6 @@ weight = 40
 
 [[menu.main]]
 identifier = "search"
-name = "Search"
+name = "🔍"
 url = "/search/"
 weight = 50
