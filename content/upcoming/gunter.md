@@ -9,7 +9,7 @@ weight = 25
 
 
 #### Title
-TBD
+Large Language Models as Large Morality Models?
 
 #### Abstract
 TBA
