@@ -28,7 +28,9 @@ buildFuture = true
 [params.homeInfoParams]
 Title = "Philosophy of Technology in Jülich"
 Content = """
-Welcome to the Jülich Speaker Series in the Philosophy of Technology. We aim to facilitate research into ethical and philosophical questions associated with novel technologies, particularly in artificial intelligence, neuromedicine, and their intersection. The series is organized by the working group [Neuroethics and Ethics of AI](https://www.fz-juelich.de/en/inm/inm-7/research-groups/neuroethics-and-ethics-in-ai) at the [Forschungszentrum Jülich](https://www.fz-juelich.de/en).  
+**Schedule change:** Starting in February, talks will be held on **Tuesdays at 10am CET** (previously Fridays).
+
+Welcome to the Jülich Speaker Series in the Philosophy of Technology. We aim to facilitate research into ethical and philosophical questions associated with novel technologies, particularly in artificial intelligence, neuromedicine, and their intersection. The series is organized by the working group [Neuroethics and Ethics of AI](https://www.fz-juelich.de/en/inm/inm-7/research-groups/neuroethics-and-ethics-in-ai) at the [Forschungszentrum Jülich](https://www.fz-juelich.de/en).
 
 
 """
