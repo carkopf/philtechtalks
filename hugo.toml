@@ -9,6 +9,9 @@ buildFuture = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   mainSections = ["upcoming"]
 
@@ -32,7 +35,9 @@ Welcome to the Jülich Speaker Series in the Philosophy of Technology. We aim to
 
 &nbsp;
 
-**Schedule change:** Starting in February, talks will be held on **Tuesdays at 10am CET** (previously Fridays).
+<div style="background-color: #fff3cd; border-left: 4px solid #ffc107; padding: 10px; margin: 10px 0;">
+<strong>Schedule change:</strong> Starting in February, talks will be held on <strong>Tuesdays at 10am CET</strong> (previously Fridays).
+</div>
 """
 
 [[menu.main]]
