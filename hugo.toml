@@ -15,6 +15,10 @@ buildFuture = true
 [params]
   mainSections = ["upcoming"]
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-ENE3M094RN'
+
 [params.analytics.google]
   SiteVerificationTag = "G-ENE3M094RN"
 
