@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 28 Apr 2026 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>February 10: David Killoren (Grand Valley State University)</title>
+      <link>http://localhost:1313/upcoming/david/</link>
+      <pubDate>Tue, 10 Feb 2026 14:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/david/</guid>
+      <description>Total deontic folk relationalism (NB: to be held at 14:00, not 10:00)</description>
+    </item>
+    <item>
       <title>February 24: Professor Matthieu Queloz (Bern)</title>
       <link>http://localhost:1313/upcoming/matthieu/</link>
       <pubDate>Tue, 24 Feb 2026 10:00:10 +0100</pubDate>
@@ -35,6 +42,13 @@
       <pubDate>Tue, 24 Mar 2026 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/gunter/</guid>
       <description>Moral AI and LLMs</description>
+    </item>
+    <item>
+      <title>April 21: Professor Annette Zimmermann (UW-Madison / Weizenbaum Institut)</title>
+      <link>http://localhost:1313/upcoming/annette/</link>
+      <pubDate>Tue, 21 Apr 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/annette/</guid>
+      <description>Democratizing AI</description>
     </item>
     <item>
       <title>April 28: Dr. Arianna Manzini (Google DeepMind)</title>
