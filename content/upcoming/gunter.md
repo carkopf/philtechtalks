@@ -1,15 +1,17 @@
 +++
-title = 'March 24: Professor Gunter Bombaerts (TU Eindhoven)'
-date = 2026-03-24T10:00:10+01:00
+title = 'June 9: Professor Gunter Bombaerts (TU Eindhoven)'
+date = 2026-06-09T10:00:00+02:00
 draft = false
 hideMeta = true
 summary = "Moral AI and LLMs"
-weight = 25
+weight = 40
 +++
 
 
 #### Title
 Large Language Models as Large Morality Models?
+
+**Note: This talk will be held in-person in Jülich.**
 
 #### Abstract
 TBA
