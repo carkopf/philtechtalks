@@ -4,7 +4,6 @@ date = 2026-02-24T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Inventorship and IP after Knowledge-Creating AI"
-weight = 10
 +++
 
 
