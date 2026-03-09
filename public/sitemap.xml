@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/upcoming/matthieu/</loc>
-    <lastmod>2026-02-24T10:00:10+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/upcoming/luise/</loc>
+    <loc>http://localhost:1313/past_talks/luise/</loc>
     <lastmod>2026-03-03T10:00:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/upcoming/max/</loc>
@@ -26,10 +23,13 @@
     <loc>http://localhost:1313/upcoming/</loc>
     <lastmod>2026-06-16T10:00:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/past_talks/david/</loc>
-    <lastmod>2026-02-10T14:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/past_talks/</loc>
+    <lastmod>2026-03-03T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/matthieu/</loc>
+    <lastmod>2026-02-24T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past_talks/david/</loc>
     <lastmod>2026-02-10T14:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past_talks/charles/</loc>
