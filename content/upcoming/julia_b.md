@@ -1,7 +1,7 @@
 +++
 title = 'June 16: Professor Julia Brailovskaja (Ruhr-Universität Bochum)'
 date = 2026-06-16T10:00:10+01:00
-draft = true
+draft = false
 hideMeta = true
 summary = "Soziale Medien und psychische Gesundheit"
 weight = 50

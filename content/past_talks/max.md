@@ -4,7 +4,6 @@ date = 2026-03-10T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "AI Safety Assessment"
-weight = 20
 +++
  
 
@@ -24,14 +23,3 @@ We further contend that such assessments make strong assumptions concerning the 
 
 #### About [Max]()
 Max is a PhD candidate at the Centre for Philosophy and AI Research (PAIR) at FAU. His research focuses on risks from AI systems, specifically on concepts that are often invoked but rarely scrutinized in this context (such as goals, agency, manipulation, and planning). Recently, he has also explored topics at the intersection of philosophy of AI and philosophy of science. Before joining PAIR, he studied philosophy, political science, and neuroscience at Goethe University Frankfurt and Humboldt University of Berlin.
-
-
-
-
-
-
-
-
-
-
-
