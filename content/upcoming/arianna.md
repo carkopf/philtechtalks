@@ -16,8 +16,8 @@ As personal AI agents become increasingly general purpose, they must juggle a wi
 
  
 
-#### About [Arianna]()
-Forthcoming
+#### About Arianna
+Arianna Manzini is a Senior Research Scientist at Google DeepMind, where she works on ethical and societal considerations around advanced AI agents. Prior to Google DeepMind, Arianna was a Research Associate at the University of Bristol, where she worked on a project on trustworthy autonomous systems. Arianna holds a PhD on ethical concerns around emerging technologies in genomics from the University of Oxford.
 
 
 
