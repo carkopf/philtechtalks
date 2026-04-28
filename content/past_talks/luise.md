@@ -4,7 +4,6 @@ date = 2026-03-03T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "AI Agents and the Hard Problem of Moral Normativity"
-weight = 15
 +++
 
 

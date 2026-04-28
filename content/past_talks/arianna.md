@@ -4,7 +4,6 @@ date = 2026-04-28T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Advancing Contextual Appropriateness in Personal AI Agents: A Role-Based Framework"
-weight = 30
 +++
  
 

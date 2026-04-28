@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Upcoming on Phil.Tech.Talks</title>
-    <link>http://localhost:1313/upcoming/</link>
+    <link>https://philtechtalks.netlify.app/upcoming/</link>
     <description>Recent content in Upcoming on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 10:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 10:00:10 +0100</lastBuildDate>
+    <atom:link href="https://philtechtalks.netlify.app/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>March 10: Max Hellrigel-Holderbaum (Erlangen)</title>
-      <link>http://localhost:1313/upcoming/max/</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/max/</guid>
-      <description>AI Safety Assessment</description>
+      <title>May 12: Dr. Henrik Dassow (Leipzig)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/henrik/</link>
+      <pubDate>Tue, 12 May 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/henrik/</guid>
+      <description>Ethische Fragen von Gamification in Gesundheits-Apps</description>
     </item>
     <item>
-      <title>April 21: Professor Annette Zimmermann (UW-Madison / Weizenbaum Institut)</title>
-      <link>http://localhost:1313/upcoming/annette/</link>
-      <pubDate>Tue, 21 Apr 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/annette/</guid>
-      <description>Democratizing AI</description>
-    </item>
-    <item>
-      <title>April 28: Dr. Arianna Manzini (Google DeepMind)</title>
-      <link>http://localhost:1313/upcoming/arianna/</link>
-      <pubDate>Tue, 28 Apr 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/arianna/</guid>
-      <description>Something on ML ethics</description>
+      <title>June 2: Alessia Cadelo (Rome)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/alessia/</link>
+      <pubDate>Tue, 02 Jun 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/alessia/</guid>
+      <description>Rethinking autonomy in the context of Direct-to-Consumer neurotechnologies</description>
     </item>
     <item>
       <title>June 9: Professor Gunter Bombaerts (TU Eindhoven)</title>
-      <link>http://localhost:1313/upcoming/gunter/</link>
+      <link>https://philtechtalks.netlify.app/upcoming/gunter/</link>
       <pubDate>Tue, 09 Jun 2026 10:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/upcoming/gunter/</guid>
+      <guid>https://philtechtalks.netlify.app/upcoming/gunter/</guid>
       <description>Moral AI and LLMs</description>
+    </item>
+    <item>
+      <title>June 16: Professor Julia Brailovskaja (Ruhr-Universität Bochum)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/julia_b/</link>
+      <pubDate>Tue, 16 Jun 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/julia_b/</guid>
+      <description>Soziale Medien und psychische Gesundheit</description>
     </item>
   </channel>
 </rss>
