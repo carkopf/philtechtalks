@@ -1,5 +1,5 @@
 +++
-title = 'May 12: Dr. Henrik Dassow (Leipzig)'
+title = 'May 12: Hans-Henrik Dassow (Potsdam)'
 date = 2026-05-12T10:00:10+01:00
 draft = false
 hideMeta = true
@@ -19,5 +19,6 @@ Darauf aufbauend wird der Übergang von interdisziplinären Grundlagen hin zu ei
 Im dritten Schritt wird die Frage adressiert, wie eine solche ethische Perspektive in die Praxis integriert werden kann. Es geht somit nicht nur um die ethische Bewertung, sondern um konkrete Formen der Umsetzung in Entwicklungs- und Forschungsprozessen. Der Vortrag schließt mit einem Ansatz integrierter Ethik, der exemplarisch an der Entwicklung digitaler Mental-Health-Interventionen für Kinder und Jugendliche verdeutlicht wird.
 
 
-#### About Henrik
-Forthcoming
+#### About Hans-Henrik
+
+Hans-Henrik Dassow studierte Wirtschaftswissenschaften, Rechtswissenschaft und Philosophie in Kiel, Bremen und Berlin. Im Jahr 2021 begann er als wissenschaftlicher Mitarbeiter seine Dissertation zum Thema „Ethik der Gamification in Gesundheits-Apps” am Institut für Philosophie der Universität Bremen unter der Betreuung von Prof. Dr. Dagmar Borchers. Parallel dazu beteiligte er sich an der interdisziplinären Forschung des Leibniz ScienceCampus Digital Public Health. Seit 2025 ist er wissenschaftlicher Mitarbeiter an der Professur für Medizinische Ethik an der Universität Potsdam (Prof. Dr. Robert Ranisch) und arbeitet dort im Rahmen des ethischen Begleitprojekts des Drittmittelprojekts „GamKi” zur Förderung der psychischen Gesundheit im Kinder- und Jugendalter durch digitale Gamification-Interventionen.
