@@ -4,7 +4,6 @@ date = 2026-05-12T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Ethische Fragen von Gamification in Gesundheits-Apps"
-weight = 32
 +++
 
 
