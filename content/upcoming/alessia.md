@@ -17,4 +17,4 @@ Direct-to-consumer (DTC) neurotechnologies, such as brain–computer interfaces 
  
 
 #### About Alessia
-Forthcoming
+Alessia Cadelo is in the third year of the PhD course 'Contemporary Humanism' at LUMSA, in Rome, in cotutela with the Universidade Católica Portuguesa, where she spent six months of visiting. She also did an internship at the Pontifical Academy for Life. Her research interests concern the ethics of artificial intelligence and emergent neurotechnologies, especially their impact on autonomy and identity.
