@@ -6,15 +6,8 @@
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:00:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>June 2: Alessia Cadelo (Rome)</title>
-      <link>http://localhost:1313/upcoming/alessia/</link>
-      <pubDate>Tue, 02 Jun 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/alessia/</guid>
-      <description>Rethinking autonomy in the context of Direct-to-Consumer neurotechnologies</description>
-    </item>
     <item>
       <title>June 9: Professor Gunter Bombaerts (TU Eindhoven)</title>
       <link>http://localhost:1313/upcoming/gunter/</link>
@@ -35,6 +28,20 @@
       <pubDate>Tue, 28 Jul 2026 10:00:10 +0100</pubDate>
       <guid>http://localhost:1313/upcoming/christophe/</guid>
       <description>Personal identity and AI-assisted brain–computer interfaces</description>
+    </item>
+    <item>
+      <title>October 20: Marco Nieschka &amp; Kordula Marisa Hildebrandt (Creative Humanity AI Hub)</title>
+      <link>http://localhost:1313/upcoming/marco/</link>
+      <pubDate>Tue, 20 Oct 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming/marco/</guid>
+      <description>Bridging neuroethics and creative-AI ethics through a human rights-based framework</description>
+    </item>
+    <item>
+      <title>June 2: Alessia Cadelo (Rome)</title>
+      <link>http://localhost:1313/past_talks/alessia/</link>
+      <pubDate>Tue, 02 Jun 2026 10:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/past_talks/alessia/</guid>
+      <description>Rethinking autonomy in the context of Direct-to-Consumer neurotechnologies</description>
     </item>
     <item>
       <title>May 12: Hans-Henrik Dassow (Potsdam)</title>

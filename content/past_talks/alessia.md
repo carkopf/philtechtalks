@@ -4,7 +4,6 @@ date = 2026-06-02T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Rethinking autonomy in the context of Direct-to-Consumer neurotechnologies"
-weight = 35
 +++
  
 
