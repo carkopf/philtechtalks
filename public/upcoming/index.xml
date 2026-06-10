@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Upcoming on Phil.Tech.Talks</title>
-    <link>http://localhost:1313/upcoming/</link>
+    <link>https://philtechtalks.netlify.app/upcoming/</link>
     <description>Recent content in Upcoming on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Oct 2026 10:00:10 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/upcoming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>June 9: Professor Gunter Bombaerts (TU Eindhoven)</title>
-      <link>http://localhost:1313/upcoming/gunter/</link>
-      <pubDate>Tue, 09 Jun 2026 10:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/upcoming/gunter/</guid>
-      <description>Moral AI and LLMs</description>
-    </item>
+    <atom:link href="https://philtechtalks.netlify.app/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>June 16: Professor Julia Brailovskaja (Ruhr-Universität Bochum)</title>
-      <link>http://localhost:1313/upcoming/julia_b/</link>
+      <link>https://philtechtalks.netlify.app/upcoming/julia_b/</link>
       <pubDate>Tue, 16 Jun 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/julia_b/</guid>
+      <guid>https://philtechtalks.netlify.app/upcoming/julia_b/</guid>
       <description>Soziale Medien und psychische Gesundheit</description>
     </item>
     <item>
       <title>July 28: Christophe Facal (McGill)</title>
-      <link>http://localhost:1313/upcoming/christophe/</link>
+      <link>https://philtechtalks.netlify.app/upcoming/christophe/</link>
       <pubDate>Tue, 28 Jul 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/christophe/</guid>
+      <guid>https://philtechtalks.netlify.app/upcoming/christophe/</guid>
       <description>Personal identity and AI-assisted brain–computer interfaces</description>
     </item>
     <item>
       <title>October 20: Marco Nieschka &amp; Kordula Marisa Hildebrandt (Creative Humanity AI Hub)</title>
-      <link>http://localhost:1313/upcoming/marco/</link>
+      <link>https://philtechtalks.netlify.app/upcoming/marco/</link>
       <pubDate>Tue, 20 Oct 2026 10:00:10 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming/marco/</guid>
+      <guid>https://philtechtalks.netlify.app/upcoming/marco/</guid>
       <description>Bridging neuroethics and creative-AI ethics through a human rights-based framework</description>
     </item>
   </channel>

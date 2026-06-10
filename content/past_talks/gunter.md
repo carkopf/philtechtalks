@@ -4,7 +4,6 @@ date = 2026-06-09T10:00:00+02:00
 draft = false
 hideMeta = true
 summary = "Moral AI and LLMs"
-weight = 40
 +++
 
 
