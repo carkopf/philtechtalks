@@ -4,7 +4,6 @@ date = 2026-06-16T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Soziale Medien und psychische Gesundheit"
-weight = 50
 +++
 
 
