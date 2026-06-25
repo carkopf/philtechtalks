@@ -4,7 +4,6 @@ date = 2026-06-23T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "AI, power, and the rule of law: legal challenges and regulatory responses"
-weight = 55
 +++
 
 

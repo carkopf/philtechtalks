@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://philtechtalks.netlify.app/upcoming/hannah/</loc>
-    <lastmod>2026-06-23T10:00:10+01:00</lastmod>
+    <loc>https://philtechtalks.netlify.app/upcoming/francesca/</loc>
+    <lastmod>2026-06-30T10:00:10+01:00</lastmod>
   </url><url>
     <loc>https://philtechtalks.netlify.app/upcoming/robert/</loc>
     <lastmod>2026-07-21T10:00:10+01:00</lastmod>
@@ -20,10 +20,13 @@
     <loc>https://philtechtalks.netlify.app/upcoming/</loc>
     <lastmod>2026-10-20T10:00:10+01:00</lastmod>
   </url><url>
-    <loc>https://philtechtalks.netlify.app/past_talks/julia_b/</loc>
-    <lastmod>2026-06-16T10:00:10+01:00</lastmod>
+    <loc>https://philtechtalks.netlify.app/past_talks/hannah/</loc>
+    <lastmod>2026-06-23T10:00:10+01:00</lastmod>
   </url><url>
     <loc>https://philtechtalks.netlify.app/past_talks/</loc>
+    <lastmod>2026-06-23T10:00:10+01:00</lastmod>
+  </url><url>
+    <loc>https://philtechtalks.netlify.app/past_talks/julia_b/</loc>
     <lastmod>2026-06-16T10:00:10+01:00</lastmod>
   </url><url>
     <loc>https://philtechtalks.netlify.app/past_talks/gunter/</loc>
