@@ -6,15 +6,8 @@
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:00:10 +0100</lastBuildDate>
     <atom:link href="https://philtechtalks.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>June 30: Dr. Francesca Cesarano (Forschungszentrum Jülich)</title>
-      <link>https://philtechtalks.netlify.app/upcoming/francesca/</link>
-      <pubDate>Tue, 30 Jun 2026 10:00:10 +0100</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/francesca/</guid>
-      <description>Is an agent responsible for complying with an oppressive gender norm when resisting is too costly?</description>
-    </item>
     <item>
       <title>July 21: Professor Robert Sparrow (Monash University)</title>
       <link>https://philtechtalks.netlify.app/upcoming/robert/</link>
@@ -30,11 +23,32 @@
       <description>Personal identity and AI-assisted brain–computer interfaces</description>
     </item>
     <item>
+      <title>October 6: Mazviita Chirimuuta (University of Edinburgh)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/mazviita/</link>
+      <pubDate>Tue, 06 Oct 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/mazviita/</guid>
+      <description>Forthcoming</description>
+    </item>
+    <item>
       <title>October 20: Marco Nieschka &amp; Kordula Marisa Hildebrandt (Creative Humanity AI Hub)</title>
       <link>https://philtechtalks.netlify.app/upcoming/marco/</link>
       <pubDate>Tue, 20 Oct 2026 10:00:10 +0100</pubDate>
       <guid>https://philtechtalks.netlify.app/upcoming/marco/</guid>
       <description>Bridging neuroethics and creative-AI ethics through a human rights-based framework</description>
+    </item>
+    <item>
+      <title>November 3: Stella Namuganza (Hertie Institute for AI in Brain Health)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/stella/</link>
+      <pubDate>Tue, 03 Nov 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/stella/</guid>
+      <description>Why precision-psychiatry models built for the clinic fail when deployed across whole mental-health systems</description>
+    </item>
+    <item>
+      <title>June 30: Dr. Francesca Cesarano (Forschungszentrum Jülich)</title>
+      <link>https://philtechtalks.netlify.app/past_talks/francesca/</link>
+      <pubDate>Tue, 30 Jun 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/past_talks/francesca/</guid>
+      <description>Is an agent responsible for complying with an oppressive gender norm when resisting is too costly?</description>
     </item>
     <item>
       <title>June 23: Professor Hannah Ruschemeier (Osnabrück University)</title>

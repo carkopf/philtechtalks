@@ -4,7 +4,6 @@ date = 2026-06-30T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Is an agent responsible for complying with an oppressive gender norm when resisting is too costly?"
-weight = 56
 +++
 
 
