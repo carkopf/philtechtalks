@@ -4,7 +4,6 @@ date = 2026-07-21T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "How interacting with AI threatens our standing as rational agents who recognise one another"
-weight = 58
 +++
 
 
