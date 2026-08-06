@@ -4,7 +4,6 @@ date = 2026-07-28T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Personal identity and AI-assisted brain–computer interfaces"
-weight = 60
 +++
 
 

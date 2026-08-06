@@ -9,13 +9,6 @@
     <lastBuildDate>Tue, 03 Nov 2026 10:00:10 +0100</lastBuildDate>
     <atom:link href="https://philtechtalks.netlify.app/upcoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>July 28: Christophe Facal (McGill)</title>
-      <link>https://philtechtalks.netlify.app/upcoming/christophe/</link>
-      <pubDate>Tue, 28 Jul 2026 10:00:10 +0100</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/christophe/</guid>
-      <description>Personal identity and AI-assisted brain–computer interfaces</description>
-    </item>
-    <item>
       <title>October 6: Mazviita Chirimuuta (University of Edinburgh)</title>
       <link>https://philtechtalks.netlify.app/upcoming/mazviita/</link>
       <pubDate>Tue, 06 Oct 2026 10:00:10 +0100</pubDate>
@@ -34,7 +27,7 @@
       <link>https://philtechtalks.netlify.app/upcoming/stella/</link>
       <pubDate>Tue, 03 Nov 2026 10:00:10 +0100</pubDate>
       <guid>https://philtechtalks.netlify.app/upcoming/stella/</guid>
-      <description>Why precision-psychiatry models built for the clinic fail when deployed across whole mental-health systems</description>
+      <description>Why treating implementation as the last stage of the AI development pipeline dooms precision psychiatry</description>
     </item>
   </channel>
 </rss>

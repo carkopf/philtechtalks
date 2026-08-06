@@ -3,21 +3,21 @@ title = 'November 3: Stella Namuganza (Hertie Institute for AI in Brain Health)'
 date = 2026-11-03T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "Why precision-psychiatry models built for the clinic fail when deployed across whole mental-health systems"
+summary = "Why treating implementation as the last stage of the AI development pipeline dooms precision psychiatry"
 weight = 76
 +++
 
 #### Title
-At the Implementation Cliff: Precision Psychiatry and the Limits of Clinical-Level Intervention
+At the Implementation Cliff: Precision Psychiatry and the Limits of Clinical-Level Intervention (co-authored with Roshan Rane and Kerstin Ritter)
 
 #### Abstract
-Mental disorders account for approximately 16% of the global burden of disease. Projections based on WHO data indicate an escalation across the Global South by 2050. The high global burden of disease can be attributed, in part, to limitations in the current social-structural, clinical, and conceptual approaches to mental health. AI-based precision psychiatry promises to improve psychiatry through personalised treatment, diagnosis, and prognosis, although systematic reviews report a more than 99% implementation failure rate.
+Mental disorders account for approximately 16% of the global burden of disease. Projections based on WHO data indicate an escalation across the Global South by 2050. The high global burden of disease can be attributed, in part, to limitations in the current social-structural, clinical, and conceptual approaches to mental health. AI-based precision psychiatry promises to improve psychiatry through personalised treatment, diagnosis, and prognosis, although systematic reviews report an implementation failure rate exceeding 99%.
 
-This article has argued that the implementation of AI-based precision psychiatry will remain difficult as long as models designed to intervene at the clinical level are deployed across a broader psychiatric ecosystem whose conceptual and structural constraint they were never built to navigate.
+We argue that the late incorporation of implementation determinants in the AI-based precision psychiatry development pipeline results in design decisions that insufficiently align with real-world deployment contexts. We contend this is the primary driver of implementation failure.
 
-During the development of precision psychiatry models, clinical operations are often alienated from the conceptual and social structural elements that shape how clinical psychiatry functions. Mental health care majorly operates across three embedded layers: Social-structural (systems, institutions, and resources through which mental health is delivered), Conceptual (how mental illness is locally understood), and Clinical (interface between patients and clinical psychiatry for purposes of diagnosis, treatment, and prediction of potential health outcomes). Precision psychiatry is designed to strictly intervene at the clinical level, yet it's implemented across all layers. We propose that development and implementation should instead be preceded by reflection on the actual setup of clinical psychiatry, making considerations for whether social-structural conditions of the target population enable availability, accessibility, and adoption of developed models and whether local conceptualisations of mental illness are compatible with the model's Knowledge.
+In this article, we introduce a three-layered conceptual framework, comprising the conceptual, social-structural, and clinical layers, to describe the ecosystem within which AI-based precision psychiatry models are deployed. We then describe the prevailing development pathway for these models and show how implementation is currently treated as a final stage, rather than an integral part, of the development process. Drawing on the Global South as an illustrative case, we examine how this late positioning of implementation leads to critical contextual factors being overlooked during model development, increasing the risk that models will be poorly suited to the settings in which they are intended to be used.
 
-The Global South context, with diverse conceptualisations of mental health and social-structural limitations, provides a clearer example of how elements within these layers can interconnect to impede the implementation of precision psychiatry. Without reflection on these layers, most of the developed models will fall at the implementation cliff, leading to wastage of already scarce resources.
+We conclude that successful implementation requires a reconfiguration of the prevailing development pipeline to incorporate implementation determinants from the outset, through public engagement, co-design, and locally grounded validation practices.
 
 
 #### About [Stella](https://hertie.ai/machine-learning/team/members/stella-namuganza)
