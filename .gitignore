@@ -4,3 +4,6 @@
 *.temp
 .DS_Store
 .claude/
+
+# Pinned local Hugo binary (matches netlify.toml HUGO_VERSION; not committed)
+.hugo-bin/
