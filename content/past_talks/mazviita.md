@@ -4,7 +4,6 @@ date = 2026-10-06T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Evidencing Biological Naturalism"
-weight = 65
 +++
 
 #### Title
