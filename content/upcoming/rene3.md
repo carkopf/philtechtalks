@@ -3,7 +3,7 @@ title = 'October 13: René Bünnagel (Forschungszentrum Jülich)'
 date = 2026-10-13T10:00:10+01:00
 draft = false
 hideMeta = true
-summary = "A minimal definition for justly accusing someone of discrimination (NB: This talk will be held in German)"
+summary = "What is it to reproach someone for discrimination? (NB: This talk will be held in German)"
 weight = 70
 +++
 

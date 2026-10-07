@@ -6,21 +6,14 @@
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:29:49 +0200</lastBuildDate>
     <atom:link href="https://philtechtalks.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>October 6: Mazviita Chirimuuta (University of Edinburgh)</title>
-      <link>https://philtechtalks.netlify.app/upcoming/mazviita/</link>
-      <pubDate>Tue, 06 Oct 2026 10:00:10 +0100</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/mazviita/</guid>
-      <description>Forthcoming</description>
-    </item>
-    <item>
-      <title>October 20: Marco Nieschka &amp; Kordula Marisa Hildebrandt (Creative Humanity AI Hub)</title>
-      <link>https://philtechtalks.netlify.app/upcoming/marco/</link>
-      <pubDate>Tue, 20 Oct 2026 10:00:10 +0100</pubDate>
-      <guid>https://philtechtalks.netlify.app/upcoming/marco/</guid>
-      <description>Bridging neuroethics and creative-AI ethics through a human rights-based framework</description>
+      <title>October 13: René Bünnagel (Forschungszentrum Jülich)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/rene3/</link>
+      <pubDate>Tue, 13 Oct 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/rene3/</guid>
+      <description>What is it to reproach someone for discrimination? (NB: This talk will be held in German)</description>
     </item>
     <item>
       <title>November 3: Stella Namuganza (Hertie Institute for AI in Brain Health)</title>
@@ -28,6 +21,13 @@
       <pubDate>Tue, 03 Nov 2026 10:00:10 +0100</pubDate>
       <guid>https://philtechtalks.netlify.app/upcoming/stella/</guid>
       <description>Why treating implementation as the last stage of the AI development pipeline dooms precision psychiatry</description>
+    </item>
+    <item>
+      <title>October 6: Mazviita Chirimuuta (University of Edinburgh)</title>
+      <link>https://philtechtalks.netlify.app/past_talks/mazviita/</link>
+      <pubDate>Tue, 06 Oct 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/past_talks/mazviita/</guid>
+      <description>Evidencing Biological Naturalism</description>
     </item>
     <item>
       <title>July 28: Christophe Facal (McGill)</title>
@@ -405,9 +405,7 @@
       <link>https://philtechtalks.netlify.app/workshop/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:10 +0000</pubDate>
       <guid>https://philtechtalks.netlify.app/workshop/</guid>
-      <description>&lt;h2 id=&#34;november-8-2024&#34;&gt;November 8, 2024&lt;/h2&gt;
-&lt;h2 id=&#34;workshop-overview&#34;&gt;Workshop Overview&lt;/h2&gt;
-&lt;p&gt;Deep learning model architectures are increasingly powerful, and are being used in increasingly many arenas of human life. To use them responsibly, we have to know something about how they work, and to what extent they process information like humans do. But that knowledge is hard to come by. In this workshop, we will discuss both how that knowledge might be gained, and how to use such deep learning models responsibly, given what we currently know.&lt;/p&gt;</description>
+      <description>November 8, 2024 Workshop Overview Deep learning model architectures are increasingly powerful, and are being used in increasingly many arenas of human life. To use them responsibly, we have to know something about how they work, and to what extent they process information like humans do. But that knowledge is hard to come by. In this workshop, we will discuss both how that knowledge might be gained, and how to use such deep learning models responsibly, given what we currently know.</description>
     </item>
     <item>
       <title>November 17: Prof. Tobias Schlicht (Bochum)</title>
@@ -449,8 +447,8 @@
       <link>https://philtechtalks.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://philtechtalks.netlify.app/contact/</guid>
-      <description>&lt;p&gt;We meet on Tuesdays at 10:00 CET.&lt;/p&gt;
-&lt;p&gt;If you would like to join the seminar, please write to &lt;a href=&#34;mailto:m.ruether@fz-juelich.de&#34;&gt;Markus Rüther&lt;/a&gt; and ask to be added to the mailing list. You will then receive emails with the link to our Zoom invite each week.&lt;/p&gt;</description>
+      <description>We meet on Tuesdays at 10:00 CET.
+If you would like to join the seminar, please write to Markus Rüther and ask to be added to the mailing list. You will then receive emails with the link to our Zoom invite each week.</description>
     </item>
   </channel>
 </rss>
