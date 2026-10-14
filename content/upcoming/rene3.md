@@ -1,6 +1,6 @@
 +++
-title = 'October 13: René Bünnagel (Forschungszentrum Jülich)'
-date = 2026-10-13T10:00:10+01:00
+title = 'October 20: René Bünnagel (Forschungszentrum Jülich)'
+date = 2026-10-20T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "What is it to reproach someone for discrimination? (NB: This talk will be held in German)"
