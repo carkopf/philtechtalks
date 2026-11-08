@@ -6,8 +6,22 @@
     <description>Recent content in Past_talks on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:29:49 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:00:10 +0100</lastBuildDate>
     <atom:link href="https://philtechtalks.netlify.app/past_talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November 3: Stella Namuganza (Hertie Institute for AI in Brain Health)</title>
+      <link>https://philtechtalks.netlify.app/past_talks/stella/</link>
+      <pubDate>Tue, 03 Nov 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/past_talks/stella/</guid>
+      <description>Why treating implementation as the last stage of the AI development pipeline dooms precision psychiatry</description>
+    </item>
+    <item>
+      <title>October 20: René Bünnagel (Forschungszentrum Jülich)</title>
+      <link>https://philtechtalks.netlify.app/past_talks/rene3/</link>
+      <pubDate>Tue, 20 Oct 2026 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/past_talks/rene3/</guid>
+      <description>What is it to reproach someone for discrimination? (NB: This talk will be held in German)</description>
+    </item>
     <item>
       <title>October 6: Mazviita Chirimuuta (University of Edinburgh)</title>
       <link>https://philtechtalks.netlify.app/past_talks/mazviita/</link>

@@ -4,7 +4,6 @@ date = 2026-11-03T10:00:10+01:00
 draft = false
 hideMeta = true
 summary = "Why treating implementation as the last stage of the AI development pipeline dooms precision psychiatry"
-weight = 76
 +++
 
 #### Title
