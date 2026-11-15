@@ -6,7 +6,7 @@
     <description>Recent content on Phil.Tech.Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2027 10:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2027 10:00:10 +0200</lastBuildDate>
     <atom:link href="https://philtechtalks.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>November 24: Elena Scalcon (University of Parma)</title>
@@ -28,6 +28,34 @@
       <pubDate>Tue, 26 Jan 2027 10:00:10 +0100</pubDate>
       <guid>https://philtechtalks.netlify.app/upcoming/ellen/</guid>
       <description>What happens to patient autonomy when AI enters medical decision-making</description>
+    </item>
+    <item>
+      <title>February 23: Mathias Risse (Harvard University)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/mathias/</link>
+      <pubDate>Tue, 23 Feb 2027 17:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/mathias/</guid>
+      <description>Topic to be announced. Note the unusual time: 17:00–19:00 CET</description>
+    </item>
+    <item>
+      <title>March 16: Dominik Balg (Johannes Gutenberg University Mainz)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/dominik/</link>
+      <pubDate>Tue, 16 Mar 2027 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/dominik/</guid>
+      <description>What reliance on language models means for the aims of education</description>
+    </item>
+    <item>
+      <title>March 23: Renate Schaub (Ruhr-Universität Bochum)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/renate/</link>
+      <pubDate>Tue, 23 Mar 2027 10:00:10 +0100</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/renate/</guid>
+      <description>AI in expert assessment and what the law has to say about it</description>
+    </item>
+    <item>
+      <title>April 13: Jonas Botta (FernUniversität in Hagen)</title>
+      <link>https://philtechtalks.netlify.app/upcoming/jonas/</link>
+      <pubDate>Tue, 13 Apr 2027 10:00:10 +0200</pubDate>
+      <guid>https://philtechtalks.netlify.app/upcoming/jonas/</guid>
+      <description>A talk on data protection law; full title to be announced</description>
     </item>
     <item>
       <title>November 3: Stella Namuganza (Hertie Institute for AI in Brain Health)</title>
